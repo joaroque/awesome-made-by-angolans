@@ -1,5 +1,6 @@
 # :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> Inspired by [:brazil: awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
+> Inspired by [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
+
 > A collection of amazing open source projects built by angolans developers
 
 [![license](https://img.shields.io/github/license/joaroque/awesome-made-by-angolans.svg)](/LICENSE)

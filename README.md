@@ -31,12 +31,12 @@
 ### Awesomes & Lists
 
 - **[100-redteam-projects](https://github.com/kurogai/100-redteam-projects)** by [Kurogai](https://github.com/kurogai)  
-  Awesome projects for security students. 
+  Awesome projects for security students.     
   ![Stars](https://img.shields.io/github/stars/kurogai/100-redteam-projects?style=flat-square)
   
 - **[pentest-checklist](https://github.com/kurogai/pentest-checklist)** by [Kurogai](https://github.com/kurogai)  
-  An accurated list of things to test while pentesting. 
-  [Stars](https://img.shields.io/github/stars/kurogai/pentest-checklist?style=flat-square)
+  An accurated list of things to test while pentesting.       
+  ![Stars](https://img.shields.io/github/stars/kurogai/pentest-checklist?style=flat-square)
 
 - **[Ruby-Fun-Practice](https://github.com/gentildpinto/Ruby-Fun-Practice)** by [Gentil Pinto](https://github.com/gentildpinto)  
   A list of small & fun functional programming exercises in Ruby.  

@@ -30,11 +30,11 @@
 
 ### Awesomes & Lists
 
-- **[100-redteam-projects](https://github.com/kurogai/100-redteam-projects)** by [Kurogai](https://github.com/kurogai)  
+- **[100-redteam-projects](https://github.com/kurogai/100-redteam-projects)** by [Héber Júlio](https://github.com/kurogai)  
   Awesome projects for security students.     
   ![Stars](https://img.shields.io/github/stars/kurogai/100-redteam-projects?style=flat-square)
   
-- **[pentest-checklist](https://github.com/kurogai/pentest-checklist)** by [Kurogai](https://github.com/kurogai)  
+- **[pentest-checklist](https://github.com/kurogai/pentest-checklist)** by [Héber Júlio](https://github.com/kurogai)  
   An accurated list of things to test while pentesting.       
   ![Stars](https://img.shields.io/github/stars/kurogai/pentest-checklist?style=flat-square)
 
@@ -88,16 +88,20 @@
 
 ### PHP
 
+- **[covid-19-ao-api](https://github.com/ravelinodecastro/covid-19-ao-api)** by [Ravelino De Castro](https://github.com/ravelinodecastro)  
+  Covid-19 Ao Api is an Angolan API created to show in real time the information about the cases of the corona virus detected in the Angolan territory.
+  ![Stars](https://img.shields.io/github/stars/ravelinodecastro/covid-19-ao-api?style=flat-square)
+
 
 <a name="python"></a>
 
 ### Python
 
-- **[nero-phishing-server](https://github.com/kurogai/nero-phishing-server)** by [Kurogai](https://github.com/kurogai)  
+- **[nero-phishing-server](https://github.com/kurogai/nero-phishing-server)** by [Héber Júlio](https://github.com/kurogai)  
   A full HTTP server for Phishing. Downloads recursively the entire webpage.  
   ![Stars](https://img.shields.io/github/stars/kurogai/nero-phishing-server?style=flat-square)
 
-- **[deep-web-scrapping](https://github.com/kurogai/deepweb-scappering)** by [Kurogai](https://github.com/kurogai)  
+- **[deep-web-scrapping](https://github.com/kurogai/deepweb-scappering)** by [Héber Júlio](https://github.com/kurogai)  
   Discover hidden deepweb pages.  
   ![Stars](https://img.shields.io/github/stars/kurogai/deepweb-scappering?style=flat-square)
 
@@ -114,14 +118,19 @@
   A simple tool that allows find GitHub users by his username.  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/gitfinder?style=flat-square)
 
+
+<a name="Typescript"></a>
+
 ### Typescript
 
-
+- **[Angola-Api](https://github.com/Angola-Api/Angola-Api)** by [Lutero Elavoco](https://github.com/luteroelavoco) & [Adilson M. Fuxe](https://github.com/adilsonfuxe)
+  We'are inspired by the Brazilian organization called Brasil Api and decided to gather as much information as necessary about Angola and distribute it free of charge.
+  ![Stars](https://img.shields.io/github/stars/gentildpinto/Angola-Api/Angola-Api?style=flat-square)
 
 
 
 ## Contributing
-Fork and push
+Fork and pull
 
 ## Thanks
 - [:brazil: awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) for some ideas to improve template and change the project name.

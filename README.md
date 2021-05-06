@@ -88,11 +88,11 @@
 ### Python
 
 - **[nero-phishing-server](https://github.com/kurogai/nero-phishing-server)** by [Kurogai](https://github.com/kurogai)  
-  A full HTTP server for Phishing. Downloads recursively the entire webpage.
+  A full HTTP server for Phishing. Downloads recursively the entire webpage.  
   ![Stars](https://img.shields.io/github/stars/kurogai/nero-phishing-server?style=flat-square)
 
 - **[deep-web-scrapping](https://github.com/kurogai/deepweb-scappering)** by [Kurogai](https://github.com/kurogai)  
-  Discover hidden deepweb pages.
+  Discover hidden deepweb pages.  
   ![Stars](https://img.shields.io/github/stars/kurogai/deepweb-scappering?style=flat-square)
 
 

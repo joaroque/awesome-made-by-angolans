@@ -11,7 +11,7 @@
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
 - [Communities](#communities)
-- [5 Most active users](#high-users)
+- [5 most active users](#high-users)
 - [C](#c)
 - [C#](#csharp)
 - [C++](#cpp)
@@ -37,7 +37,11 @@
 - **[100-redteam-projects](https://github.com/kurogai/100-redteam-projects)** by [Héber Júlio](https://github.com/kurogai)  
   Awesome projects for security students.     
   ![Stars](https://img.shields.io/github/stars/kurogai/100-redteam-projects?style=flat-square)
-  
+
+- **[coisas-que-devem-estar-no-header-do-seu-site](https://github.com/MartinsSilva/coisas-que-devem-estar-no-header-do-seu-site)** by [Martins Silva](https://github.com/MartinsSilva)  
+  A list of metacharsets that cannot be missing from your site and can improve your site’s SEO.  
+  ![Stars](https://img.shields.io/github/stars/MartinsSilva/coisas-que-devem-estar-no-header-do-seu-site?style=flat-square)
+
 - **[pentest-checklist](https://github.com/kurogai/pentest-checklist)** by [Héber Júlio](https://github.com/kurogai)  
   An accurated list of things to test while pentesting.       
   ![Stars](https://img.shields.io/github/stars/kurogai/pentest-checklist?style=flat-square)
@@ -45,10 +49,38 @@
 - **[Ruby-Fun-Practice](https://github.com/gentildpinto/Ruby-Fun-Practice)** by [Gentil Pinto](https://github.com/gentildpinto)  
   A list of small & fun functional programming exercises in Ruby.  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/Ruby-Fun-Practice?style=flat-square)
+  
+- **[boas-praticas-do-vue](https://github.com/Vue-js-Angola/boas-praticas-do-vue)** by [Vue-js Angola](https://github.com/Vue-js-Angola)  
+  A list of best practices and style guides for use in VueJs.  
+  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola/boas-praticas-do-vue?style=flat-square)
 
 - **[URIOnlineJudge_Ruby_Solutions](https://github.com/gentildpinto/URIOnlineJudge_Ruby_Solutions)** by [Gentil Pinto](https://github.com/gentildpinto)  
   Solutions urionlinejudge.com.br in Ruby.  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/URIOnlineJudge_Ruby_Solutions?style=flat-square)
+
+- **[guia-simplificado-do-git-para-iniciantes](https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes)**  
+  A simple guide with all the main commands to get started with Git and Github. 
+  ![Stars](https://img.shields.io/github/stars/MartinsSilva/guia-simplificado-do-git-para-iniciantes?style=flat-square)
+
+<a name="communities"></a>
+
+### Communities
+
+- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
+  Angolan community of Vuejs developers. 
+  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
+
+- **[Vue-js-Angola](https://github.com/pangolano)**  
+  A community of Angolan programmers and open source lovers. 
+  ![Stars](https://img.shields.io/github/stars/pangolano?style=flat-square)
+
+- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
+  Angolan community of Vuejs developers. 
+  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
+
+- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
+  Angolan community of Vuejs developers. 
+  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
 
 <a name="c"></a>
 
@@ -69,6 +101,9 @@
 
 ### CSS
 
+- **[Wayami-Framework](https://github.com/eadafonso/Wayami-Framework)** by [Edvaldo Afonso](https://github.com/eadafonso)  
+  Wayami is a css framework developed to speed up the development of Web Applications, Websites..  
+  ![Stars](https://img.shields.io/github/stars/eadafonso/Wayami-Framework?style=flat-square)
 
 <a name="dart"></a>
 

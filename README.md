@@ -186,7 +186,7 @@
   Angolan community of Vuejs developers.   
   ![Contribs](https://img.shields.io/github/contributions/lutonda?style=flat-square)
   ![Stars](https://img.shields.io/github/stars/lutonda?style=flat-square)
-  ![repos](https://img.shields.io/github/repos/lutonda?style=flat-square)
+  ![repos](https://img.shields.io/github/repositories/lutonda?style=flat-square)
 
 
 ## Contributing

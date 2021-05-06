@@ -125,7 +125,7 @@
 
 - **[Angola-Api](https://github.com/Angola-Api/Angola-Api)** by [Lutero Elavoco](https://github.com/luteroelavoco) & [Adilson M. Fuxe](https://github.com/adilsonfuxe)
   We'are inspired by the Brazilian organization called Brasil Api and decided to gather as much information as necessary about Angola and distribute it free of charge.
-  ![Stars](https://img.shields.io/github/stars/gentildpinto/Angola-Api/Angola-Api?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/Angola-Api/Angola-Api?style=flat-square)
 
 
 

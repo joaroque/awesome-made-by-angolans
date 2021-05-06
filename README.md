@@ -83,13 +83,16 @@
 
 ### JavaScript
 
+- **[covidango](https://github.com/git-marcopitra/covidango)** by [Marco Pitra](https://github.com/git-marcopitra)  
+  Site to save Angola from COVID-19 - S.O.S. Angola.  
+  ![Stars](https://img.shields.io/github/stars/git-marcopitra/covidango?style=flat-square)
 
 <a name="php"></a>
 
 ### PHP
 
 - **[covid-19-ao-api](https://github.com/ravelinodecastro/covid-19-ao-api)** by [Ravelino De Castro](https://github.com/ravelinodecastro)  
-  Covid-19 Ao Api is an Angolan API created to show in real time the information about the cases of the corona virus detected in the Angolan territory.
+  Covid-19 Ao Api is an Angolan API created to show in real time the information about the cases of the corona virus detected in the Angolan territory.       
   ![Stars](https://img.shields.io/github/stars/ravelinodecastro/covid-19-ao-api?style=flat-square)
 
 
@@ -124,7 +127,7 @@
 ### Typescript
 
 - **[Angola-Api](https://github.com/Angola-Api/Angola-Api)** by [Lutero Elavoco](https://github.com/luteroelavoco) & [Adilson M. Fuxe](https://github.com/adilsonfuxe)
-  We'are inspired by the Brazilian organization called Brasil Api and decided to gather as much information as necessary about Angola and distribute it free of charge.
+  We'are inspired by the Brazilian organization called Brasil Api and decided to gather as much information as necessary about Angola and distribute it free of charge.     
   ![Stars](https://img.shields.io/github/stars/Angola-Api/Angola-Api?style=flat-square)
 
 

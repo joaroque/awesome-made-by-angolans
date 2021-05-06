@@ -1,2 +1,26 @@
-# awesome-made-by-angolans
-🇦🇴 A collection of amazing open source projects built by angolans developers
+# :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A collection of amazing open source projects built by angolans developers
+
+[![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/awesome-made-by-angolans/graphs/contributors)
+
+- [Apps, Softwares & Tools](#apps)
+- [Awesomes & Lists](#awesomes)
+- [C](#c)
+- [C#](#csharp)
+- [C++](#cpp)
+- [CSS](#css)
+- [Clojure](#clojure)
+- [Dart](#dart)
+- [Delphi](#delphi)
+- [Elixir](#elixir)
+- [Go](#go)
+- [JavaScript](#js)
+- [Lua](#lua)
+- [PHP](#php)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Shell](#shell)
+- [Typescript](#typescript)
+- [vim](#vim)

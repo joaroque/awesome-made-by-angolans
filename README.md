@@ -7,8 +7,11 @@
 [![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg)](/STARS)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/awesome-made-by-angolans/graphs/contributors)
 
+### index
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
+- [Communities](#communities)
+- [5 Most active users](#high-users)
 - [C](#c)
 - [C#](#csharp)
 - [C++](#cpp)

@@ -38,6 +38,14 @@
   An accurated list of things to test while pentesting. 
   ![Stars](https://img.shields.io/github/stars/kurogai/pentest-checklist?style=flat-square)
 
+- **[Ruby-Fun-Practice](https://github.com/gentildpinto/Ruby-Fun-Practice)** by [Gentil Pinto](https://github.com/gentildpinto)  
+  A list of small & fun functional programming exercises in Ruby.  
+  ![Stars](https://img.shields.io/github/stars/gentildpinto/Ruby-Fun-Practice?style=flat-square)
+
+- **[URIOnlineJudge_Ruby_Solutions](https://github.com/gentildpinto/URIOnlineJudge_Ruby_Solutions)** by [Gentil Pinto](https://github.com/gentildpinto)  
+  Solutions urionlinejudge.com.br in Ruby.  
+  ![Stars](https://img.shields.io/github/stars/gentildpinto/URIOnlineJudge_Ruby_Solutions?style=flat-square)
+
 <a name="c"></a>
 
 ### C
@@ -98,7 +106,13 @@
 
 ### Ruby
 
+- **[provincias_de_angola_api](https://github.com/gentildpinto/provincias_de_angola_api)** by [Gentil Pinto](https://github.com/gentildpinto)  
+  API developed to provide data from provinces and municipalities in the Angolan territory.  
+  ![Stars](https://img.shields.io/github/stars/gentildpinto/provincias_de_angola_api?style=flat-square)
 
+- **[gitfinder](https://github.com/gentildpinto/gitfinder)** by [Gentil Pinto](https://github.com/gentildpinto)  
+  A simple tool that allows find GitHub users by his username.  
+  ![Stars](https://img.shields.io/github/stars/gentildpinto/gitfinder?style=flat-square)
 
 ### Typescript
 

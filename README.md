@@ -10,8 +10,6 @@
 ### index
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
-- [Communities](#communities)
-- [5 most active users](#high-users)
 - [C](#c)
 - [C#](#csharp)
 - [C++](#cpp)
@@ -24,6 +22,10 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Typescript](#typescript)
+
+### Others
+- [Communities](#communities)
+- [5 most active users](#high-users)
 
 <a name="apps"></a>
 
@@ -62,25 +64,6 @@
   A simple guide with all the main commands to get started with Git and Github.     
   ![Stars](https://img.shields.io/github/stars/MartinsSilva/guia-simplificado-do-git-para-iniciantes?style=flat-square)
 
-<a name="communities"></a>
-
-### Communities
-
-- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
-  Angolan community of Vuejs developers.   
-  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
-
-- **[Vue-js-Angola](https://github.com/pangolano)**  
-  A community of Angolan programmers and open source lovers.  
-  ![Stars](https://img.shields.io/github/stars/pangolano?style=flat-square)
-
-- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
-  Angolan community of Vuejs developers.  
-  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
-
-- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
-  Angolan community of Vuejs developers.  
-  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
 
 <a name="c"></a>
 
@@ -133,6 +116,10 @@
 - **[covid-19-ao-api](https://github.com/ravelinodecastro/covid-19-ao-api)** by [Ravelino De Castro](https://github.com/ravelinodecastro)  
   Covid-19 Ao Api is an Angolan API created to show in real time the information about the cases of the corona virus detected in the Angolan territory.       
   ![Stars](https://img.shields.io/github/stars/ravelinodecastro/covid-19-ao-api?style=flat-square)
+  
+- **[CountriesAfricanAPI](https://github.com/MartinsSilva/CountriesAfricanAPI)** by [Martins Silva](https://github.com/MartinsSilva)  
+  API with all countries of Africa.     
+  ![Stars](https://img.shields.io/github/stars/MartinsSilva/CountriesAfricanAPI?style=flat-square)
 
 
 <a name="python"></a>
@@ -169,6 +156,37 @@
   We're inspired by the Brazilian organization called Brasil Api and decided to gather as much information as necessary about Angola and distribute it free of charge.     
   ![Stars](https://img.shields.io/github/stars/Angola-Api/Angola-Api?style=flat-square)
 
+
+<a name="communities"></a>
+
+### Communities
+
+- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
+  Angolan community of Vuejs developers.   
+  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
+
+- **[Programador Angolano](https://github.com/pangolano)**  
+  A community of Angolan programmers and open source lovers.  
+  ![Stars](https://img.shields.io/github/stars/pangolano?style=flat-square)
+
+- **[Community-Dev-Angola](https://github.com/Community-Dev-Angola)**  
+  Community of Angolan Developers..  
+  ![Stars](https://img.shields.io/github/stars/Community-Dev-Angola?style=flat-square)
+
+- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
+  Angolan community of Vuejs developers.  
+  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
+
+
+<a name="communities"></a>
+
+### 5 most active users
+
+- **[Sebastião Dias Lutonda](https://github.com/lutonda)**  
+  Angolan community of Vuejs developers.   
+  ![Contribs](https://img.shields.io/github/contributions/lutonda?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/lutonda?style=flat-square)
+  ![repos](https://img.shields.io/github/repos/lutonda?style=flat-square)
 
 
 ## Contributing

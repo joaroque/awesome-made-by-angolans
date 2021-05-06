@@ -58,8 +58,8 @@
   Solutions urionlinejudge.com.br in Ruby.  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/URIOnlineJudge_Ruby_Solutions?style=flat-square)
 
-- **[guia-simplificado-do-git-para-iniciantes](https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes)**  
-  A simple guide with all the main commands to get started with Git and Github. 
+- **[guia-simplificado-do-git-para-iniciantes](https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes)** by [Martins Silva](https://github.com/MartinsSilva)  
+  A simple guide with all the main commands to get started with Git and Github.     
   ![Stars](https://img.shields.io/github/stars/MartinsSilva/guia-simplificado-do-git-para-iniciantes?style=flat-square)
 
 <a name="communities"></a>
@@ -67,19 +67,19 @@
 ### Communities
 
 - **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
-  Angolan community of Vuejs developers. 
+  Angolan community of Vuejs developers.   
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
 
 - **[Vue-js-Angola](https://github.com/pangolano)**  
-  A community of Angolan programmers and open source lovers. 
+  A community of Angolan programmers and open source lovers.  
   ![Stars](https://img.shields.io/github/stars/pangolano?style=flat-square)
 
 - **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
-  Angolan community of Vuejs developers. 
+  Angolan community of Vuejs developers.  
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
 
 - **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
-  Angolan community of Vuejs developers. 
+  Angolan community of Vuejs developers.  
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
 
 <a name="c"></a>

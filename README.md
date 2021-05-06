@@ -32,10 +32,12 @@
 
 - **[100-redteam-projects](https://github.com/kurogai/100-redteam-projects)** by [Kurogai](https://github.com/kurogai)  
   Awesome projects for security students.
+  
   ![Stars](https://img.shields.io/github/stars/kurogai/100-redteam-projects?style=flat-square)
   
-  - **[pentest-checklist](https://github.com/kurogai/pentest-checklist)** by [Kurogai](https://github.com/kurogai)  
+- **[pentest-checklist](https://github.com/kurogai/pentest-checklist)** by [Kurogai](https://github.com/kurogai)  
   An accurated list of things to test while pentesting.
+  
   ![Stars](https://img.shields.io/github/stars/kurogai/pentest-checklist?style=flat-square)
 
 <a name="c"></a>
@@ -87,10 +89,12 @@
 
 - **[nero-phishing-server](https://github.com/kurogai/nero-phishing-server)** by [Kurogai](https://github.com/kurogai)  
   A full HTTP server for Phishing. Downloads recursively the entire webpage.
-  ![Stars](https://img.shields.io/github/stars/kurogai/nero-phishing-server?style=flat-square)
+ 
+ ![Stars](https://img.shields.io/github/stars/kurogai/nero-phishing-server?style=flat-square)
 
 - **[deep-web-scrapping](https://github.com/kurogai/deepweb-scappering)** by [Kurogai](https://github.com/kurogai)  
   Discover hidden deepweb pages.
+  
   ![Stars](https://img.shields.io/github/stars/kurogai/deepweb-scappering?style=flat-square)
 
 
@@ -110,7 +114,7 @@
 Fork and push
 
 ## Thanks
-- [🇷🇺 awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) for some ideas to improve template and change the project name.
+- [:brazil: awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) for some ideas to improve template and change the project name.
 - [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) for some ideas to improve template and change the project name (initially `made-in-brazil`).
 
 ## License

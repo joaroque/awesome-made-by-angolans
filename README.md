@@ -255,7 +255,15 @@
 
 
 ## Contributing
-Fork and pull
+It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
+
+If you want to add a project to this list, please make sure that:
+
+- The project was created by developers born in Angola
+- The project can't be just a personal, experimental or sample project
+- Place them in alphabetical order
+- If they meet the requirements above, feel free to create a PR!
+
 
 ## Thanks
 - [:brazil: awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) for some ideas to improve template and change the project name.

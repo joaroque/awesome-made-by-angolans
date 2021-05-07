@@ -1,12 +1,10 @@
 # :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg?style=flat-square)](https://awesome.re)
-> Inspired by [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
-
 > A collection of amazing open source projects built by angolans developers
 
 [![GNU license](https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square)](https://lbesson.mit-license.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg?style=flat-square)](/STARS)
-[![GitHub contributors](https://img.shields.io/github/contributors/joaroque/awesome-made-by-angolans/badges-blue.svg?style=flat-square)](https://GitHub.com/joaroque/awesome-made-by-angolans/badges/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/joaroque/awesome-made-by-angolans.svg?style=flat-square)](https://GitHub.com/joaroque/awesome-made-by-angolans/badges/graphs/contributors/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)](http://commonmark.org)
 
 ### index

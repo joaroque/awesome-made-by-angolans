@@ -41,7 +41,9 @@
   Commercial management system made with React js and Node Js.     
   ![Stars](https://img.shields.io/github/stars/AlienDev66/camilger-comercial?style=flat-square)
 
-
+- **[bottom_navy_bar](https://github.com/pedromassango/xtimer-flutter-app)** by [Pedro Massango](https://github.com/pedromassango)  
+  Flutter timer app.  
+  ![Stars](https://img.shields.io/github/stars/pedromassango/xtimer-flutter-app?style=flat-square)
 
 <a name="awesomes"></a>
 
@@ -83,6 +85,10 @@
   An incredible list of the VueJS ecosystem.  
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola/awesome-list-vue-angola?style=flat-square)
 
+- **[bottom_navy_bar](https://github.com/pedromassango/my_flutter_challenges)** by [Pedro Massango](https://github.com/pedromassango)  
+  Flutter project containing all my flutter UI challenges.  
+  ![Stars](https://img.shields.io/github/stars/pedromassango/my_flutter_challenges?style=flat-square)
+
 <a name="c"></a>
 
 ### C
@@ -114,7 +120,9 @@
   A beautiful and animated bottom navigation.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar?style=flat-square)
   
-
+- **[bottom_navy_bar](https://github.com/pedromassango/titled_navigation_bar)** by [Pedro Massango](https://github.com/pedromassango)  
+  A beautiful and simple bottom navigation bar with smooth animation when switching selected item.  
+  ![Stars](https://img.shields.io/github/stars/pedromassango/titled_navigation_bar?style=flat-square)
 
 
 <a name="go"></a>

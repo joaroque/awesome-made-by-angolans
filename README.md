@@ -1,7 +1,7 @@
 # :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg?style=flat-square)](https://awesome.re)
 > A collection of amazing open source projects built by angolans developers
 
-[![GNU license](https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square)](https://lbesson.mit-license.org/)
+[![GNU license](https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg?style=flat-square)](/STARS)
 [![GitHub contributors](https://img.shields.io/github/contributors/joaroque/awesome-made-by-angolans.svg?style=flat-square)](https://GitHub.com/joaroque/awesome-made-by-angolans/badges/graphs/contributors/)
@@ -248,4 +248,4 @@ If you want to add a project to this list, please make sure that:
 [GNU](/license)
 
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/joaroque/)

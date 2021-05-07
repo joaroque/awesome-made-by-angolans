@@ -214,10 +214,6 @@
   Community of Angolan Developers..  
   ![Stars](https://img.shields.io/github/stars/Community-Dev-Angola?style=flat-square)
 
-- **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
-  Angolan community of Vuejs developers.  
-  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
-
 
 <a name="high-users"></a>
 

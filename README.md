@@ -33,6 +33,11 @@
 
 ### Apps, Softwares & Tools
 
+- **[HinarioCatolico](https://github.com/nicolau-np/HinarioCatolico)** by [Nicolau NP](https://github.com/nicolau-np)  
+  Catholic hymnal, songs and prayers.     
+  ![Stars](https://img.shields.io/github/stars/nicolau-np/HinarioCatolico?style=flat-square)
+
+
 
 <a name="awesomes"></a>
 
@@ -65,7 +70,14 @@
 - **[guia-simplificado-do-git-para-iniciantes](https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes)** by [Martins Silva](https://github.com/MartinsSilva)  
   A simple guide with all the main commands to get started with Git and Github.     
   ![Stars](https://img.shields.io/github/stars/MartinsSilva/guia-simplificado-do-git-para-iniciantes?style=flat-square)
+  
+- **[Desafios](https://github.com/Community-Dev-Angola/Desafios)** by [CDA](https://github.com/Community-Dev-Angola)  
+  List of logic / programming challenge platforms.     
+  ![Stars](https://img.shields.io/github/stars/Community-Dev-Angola/Desafios?style=flat-square)
 
+- **[awesome-list-vue-angola](https://github.com/Vue-js-Angola/awesome-list-vue-angola)** by [Vue-js Angola](https://github.com/Vue-js-Angola)  
+  An incredible list of the VueJS ecosystem.  
+  ![Stars](https://img.shields.io/github/stars/Vue-js-Angola/awesome-list-vue-angola?style=flat-square)
 
 <a name="c"></a>
 
@@ -110,6 +122,14 @@
 - **[covidango](https://github.com/git-marcopitra/covidango)** by [Marco Pitra](https://github.com/git-marcopitra)  
   Site to save Angola from COVID-19 - S.O.S. Angola.  
   ![Stars](https://img.shields.io/github/stars/git-marcopitra/covidango?style=flat-square)
+  
+- **[dicionarius-angola-api](https://github.com/MartinsSilva/dicionarius-angola-api)** by [Martins Silva](https://github.com/MartinsSilva)  
+  API with common entries and Angolan slang.  
+  ![Stars](https://img.shields.io/github/stars/MartinsSilva/dicionarius-angola-api?style=flat-square)
+  
+- **[Poligloz](https://github.com/Danguya/Poligloz)** by [Wilmy Danguya](https://github.com/Danguya)  
+  API created to translate texts in any type of system.  
+  ![Stars](https://img.shields.io/github/stars/Danguya/Poligloz?style=flat-square)
 
 <a name="php"></a>
 
@@ -180,7 +200,7 @@
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
 
 
-<a name="communities"></a>
+<a name="high-users"></a>
 
 ### 5 most active users
 

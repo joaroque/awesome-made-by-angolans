@@ -4,8 +4,8 @@
 > A collection of amazing open source projects built by angolans developers
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://lbesson.mit-license.org/)
-[![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg?style=flat-square)](/STARS)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg?style=flat-square)](/STARS)
 [![GitHub contributors](https://img.shields.io/github/contributors/joaroque/badges-blue.svg?style=flat-square)](https://GitHub.com/joaroque/badges/graphs/contributors/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)](http://commonmark.org)
 

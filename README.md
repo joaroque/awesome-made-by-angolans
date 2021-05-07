@@ -10,12 +10,8 @@
 ### index
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
-- [C](#c)
-- [C#](#csharp)
-- [C++](#cpp)
 - [CSS](#css)
 - [Dart](#dart)
-- [Go](#go)
 - [JavaScript](#js)
 - [Java](#java)
 - [PHP](#php)
@@ -102,22 +98,6 @@
 - **[Rust-Learn](https://github.com/acidiney/learn-adonisjs)** by [Acidiney Dias](https://github.com/acidiney)  
   A single repository learn about routing, upload files, controllers, auth with adonis.  
   ![Stars](https://img.shields.io/github/stars/acidiney/learn-adonisjs?style=flat-square)
-
-
-<a name="c"></a>
-
-### C
-
-
-<a name="csharp"></a>
-
-### C♯
-
- 
-<a name="cpp"></a>
-
-### C++
-
   
 <a name="css"></a>
 
@@ -139,10 +119,6 @@
   A beautiful and simple bottom navigation bar with smooth animation when switching selected item.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/titled_navigation_bar?style=flat-square)
 
-
-<a name="go"></a>
-
-### Go
 
 
 <a name="js"></a>

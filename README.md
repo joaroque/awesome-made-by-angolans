@@ -184,9 +184,8 @@
 
 - **[Sebastião Dias Lutonda](https://github.com/lutonda)**  
   Angolan community of Vuejs developers.   
-  ![Contribs](https://img.shields.io/github/contributions/lutonda?style=flat-square)
-  ![Stars](https://img.shields.io/github/stars/lutonda?style=flat-square)
-  ![repos](https://img.shields.io/github/repositories/lutonda?style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lutonda?tab=followers)
+
 
 
 ## Contributing

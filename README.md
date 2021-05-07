@@ -85,9 +85,26 @@
   An incredible list of the VueJS ecosystem.  
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola/awesome-list-vue-angola?style=flat-square)
 
-- **[bottom_navy_bar](https://github.com/pedromassango/my_flutter_challenges)** by [Pedro Massango](https://github.com/pedromassango)  
+- **[my_flutter_challenges](https://github.com/pedromassango/my_flutter_challenges)** by [Pedro Massango](https://github.com/pedromassango)  
   Flutter project containing all my flutter UI challenges.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/my_flutter_challenges?style=flat-square)
+  
+- **[Vue-Study-Content](https://github.com/acidiney/Vue-Study-Content)** by [Acidiney Dias](https://github.com/acidiney)  
+  All material about vuejs for your studies in diferents languages.  
+  ![Stars](https://img.shields.io/github/stars/acidiney/Vue-Study-Content?style=flat-square)
+  
+- **[Vue-Study-Content](https://github.com/acidiney/Vue-Study-Content)** by [Acidiney Dias](https://github.com/acidiney)  
+  All material about vuejs for your studies in diferents languages.  
+  ![Stars](https://img.shields.io/github/stars/acidiney/Vue-Study-Content?style=flat-square)
+  
+- **[Rust-Learn](https://github.com/acidiney/Rust-Learn)** by [Acidiney Dias](https://github.com/acidiney)  
+  A repository that contains all my study test of rust, following the documentation or other way.  
+  ![Stars](https://img.shields.io/github/stars/acidiney/Rust-Learn?style=flat-square)
+
+- **[Rust-Learn](https://github.com/acidiney/learn-adonisjs)** by [Acidiney Dias](https://github.com/acidiney)  
+  A single repository learn about routing, upload files, controllers, auth with adonis.  
+  ![Stars](https://img.shields.io/github/stars/acidiney/learn-adonisjs?style=flat-square)
+
 
 <a name="c"></a>
 

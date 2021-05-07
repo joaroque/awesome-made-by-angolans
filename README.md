@@ -1,11 +1,11 @@
-# :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# :angola: Awesome Made by Angolans [![Awesome](https://awesome.re/badge.svg?style=flat-square)](https://awesome.re)
 > Inspired by [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
 
 > A collection of amazing open source projects built by angolans developers
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://lbesson.mit-license.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg?style=flat-square)](/STARS)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub contributors](https://img.shields.io/github/contributors/joaroque/badges-blue.svg?style=flat-square)](https://GitHub.com/joaroque/badges/graphs/contributors/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)](http://commonmark.org)
 
@@ -184,10 +184,22 @@
 
 ### 5 most active users
 
-- **[Sebastião Dias Lutonda](https://github.com/lutonda)**  
-  Angolan community of Vuejs developers.   
-  [![GitHub followers](https://img.shields.io/github/followers/lutonda.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lutonda?tab=followers)
+- **[lutonda](https://github.com/lutonda)**   - Sebastião Dias Lutonda
+  [![GitHub followers](https://img.shields.io/github/followers/lutonda.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/lutonda?tab=followers)
 
+- **[julombe](https://github.com/julombe)**   - José Ulombe
+  [![GitHub followers](https://img.shields.io/github/followers/julombe.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/julombe?tab=followers)
+
+- **[AlienDev66](https://github.com/AlienDev66)**   - Domingos Capitango
+  [![GitHub followers](https://img.shields.io/github/followers/AlienDev66.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/AlienDev66?tab=followers)
+
+- **[buzzcode42](https://github.com/buzzcode42)**   - Fernando dos Santos
+  [![GitHub followers](https://img.shields.io/github/followers/buzzcode42.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/buzzcode42?tab=followers)
+
+- **[eliezerantonio](https://github.com/eliezerantonio)**   - Sebastião Dias Lutonda
+  [![GitHub followers](https://img.shields.io/github/followers/eliezerantonio.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/eliezerantonio?tab=followers)
+
+> view [more](https://commits.top/angola.html)
 
 
 ## Contributing

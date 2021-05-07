@@ -36,6 +36,10 @@
 - **[HinarioCatolico](https://github.com/nicolau-np/HinarioCatolico)** by [Nicolau NP](https://github.com/nicolau-np)  
   Catholic hymnal, songs and prayers.     
   ![Stars](https://img.shields.io/github/stars/nicolau-np/HinarioCatolico?style=flat-square)
+  
+- **[camilger-comercial](https://github.com/AlienDev66/camilger-comercial)** by [Domingos Capitango](https://github.com/AlienDev66) & [Adilson M. Fuxe](https://github.com/adilsonfuxe)  
+  Commercial management system made with React js and Node Js.     
+  ![Stars](https://img.shields.io/github/stars/AlienDev66/camilger-comercial?style=flat-square)
 
 
 
@@ -106,8 +110,11 @@
 
 ### Dart
 
+- **[bottom_navy_bar](https://github.com/pedromassango/bottom_navy_bar)** by [Pedro Massango](https://github.com/pedromassango)  
+  A beautiful and animated bottom navigation.  
+  ![Stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar?style=flat-square)
+  
 
-<a name="delphi"></a>
 
 
 <a name="go"></a>
@@ -130,6 +137,10 @@
 - **[Poligloz](https://github.com/Danguya/Poligloz)** by [Wilmy Danguya](https://github.com/Danguya)  
   API created to translate texts in any type of system.  
   ![Stars](https://img.shields.io/github/stars/Danguya/Poligloz?style=flat-square)
+  
+- **[Poligloz](https://github.com/buzzcode42/covid-tracker)** by [Fernando do Santos](https://github.com/buzzcode42)  
+  Covid-tracker is a web app that reports on Covid cases worldwide.  
+  ![Stars](https://img.shields.io/github/stars/buzzcode42/covid-tracker?style=flat-square)
 
 <a name="php"></a>
 

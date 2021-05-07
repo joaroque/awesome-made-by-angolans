@@ -184,7 +184,7 @@
 
 - **[Sebastião Dias Lutonda](https://github.com/lutonda)**  
   Angolan community of Vuejs developers.   
-  [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lutonda?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/lutonda.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lutonda?tab=followers)
 
 
 
@@ -198,3 +198,6 @@ Fork and pull
 ## License
 
 [GNU](/license)
+
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)

@@ -184,22 +184,22 @@
 
 ### 5 most active users
 
-- **[lutonda](https://github.com/lutonda)**   - Sebastião Dias Lutonda
+1 **[lutonda](https://github.com/lutonda)**   - Sebastião Dias Lutonda    
   [![GitHub followers](https://img.shields.io/github/followers/lutonda.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/lutonda?tab=followers)
 
-- **[julombe](https://github.com/julombe)**   - José Ulombe
+2 **[julombe](https://github.com/julombe)**   - José Ulombe   
   [![GitHub followers](https://img.shields.io/github/followers/julombe.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/julombe?tab=followers)
 
-- **[AlienDev66](https://github.com/AlienDev66)**   - Domingos Capitango
+3 **[AlienDev66](https://github.com/AlienDev66)**   - Domingos Capitango    
   [![GitHub followers](https://img.shields.io/github/followers/AlienDev66.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/AlienDev66?tab=followers)
 
-- **[buzzcode42](https://github.com/buzzcode42)**   - Fernando dos Santos
+4 **[buzzcode42](https://github.com/buzzcode42)**   - Fernando dos Santos   
   [![GitHub followers](https://img.shields.io/github/followers/buzzcode42.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/buzzcode42?tab=followers)
 
-- **[eliezerantonio](https://github.com/eliezerantonio)**   - Sebastião Dias Lutonda
+5 **[eliezerantonio](https://github.com/eliezerantonio)**   - Sebastião Dias Lutonda    
   [![GitHub followers](https://img.shields.io/github/followers/eliezerantonio.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/eliezerantonio?tab=followers)
 
-> view [more](https://commits.top/angola.html)
+  View [more](https://commits.top/angola.html)
 
 
 ## Contributing

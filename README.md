@@ -214,8 +214,13 @@
   ![Stars](https://img.shields.io/github/stars/pangolano?style=flat-square)
 
 - **[Community-Dev-Angola](https://github.com/Community-Dev-Angola)**  
-  Community of Angolan Developers..  
+  Community of Angolan Developers.  
   ![Stars](https://img.shields.io/github/stars/Community-Dev-Angola?style=flat-square)
+
+- **[Coding Dojo Angola](https://github.com/codingdojoangola)**  
+  O Coding Dojo Angola é um espaço onde interessados em desenvolvimento de software em Angola poderão se reunir para aprender e ensinar programação, procurar informações sobre vagas de empregos nas TIC's e para que empresas possam encontrar talento angolano..  
+  ![Stars](https://img.shields.io/github/stars/codingdojoangola?style=flat-square)
+  
 
 
 <a name="high-users"></a>

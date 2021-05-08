@@ -140,6 +140,10 @@
 - **[Poligloz](https://github.com/buzzcode42/covid-tracker)** by [Fernando do Santos](https://github.com/buzzcode42)  
   Covid-tracker is a web app that reports on Covid cases worldwide.  
   ![Stars](https://img.shields.io/github/stars/buzzcode42/covid-tracker?style=flat-square)
+  
+- **[inter](https://github.com/DenisPower1/inter)** by [Denis](https://github.com/DenisPower1)  
+  The javascript library to build highly interactive front-end  web applications.  
+  ![Stars](https://img.shields.io/github/stars/DenisPower1/inter?style=flat-square)
 
 <a name="php"></a>
 

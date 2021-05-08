@@ -17,6 +17,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Swift](#swift)
 - [Typescript](#typescript)
 
 ### Others
@@ -38,6 +39,14 @@
 - **[bottom_navy_bar](https://github.com/pedromassango/xtimer-flutter-app)** by [Pedro Massango](https://github.com/pedromassango)  
   Flutter timer app.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/xtimer-flutter-app?style=flat-square)
+
+- **[cda-app](https://github.com/codingdojoangola/cda-app)** by [Coding Dojo Angola](https://github.com/codingdojoangola)   
+    A App CDA terá como principal objetivo demostrar habilidades e competências individuais e coletivas dos membros do CDA para potencial empregadores, contratadores de freelancers e a sociedade em geral.   
+  	![Stars](https://img.shields.io/github/stars/codingdojoangola/cda-app?style=flat-square)
+ 
+- **[soupro-mobile](https://github.com/somospro/soupro-mobile)** by [Sou Pro](https://github.com/somospro)   
+    Aplicativo mobile da plataforma Sou Pro  
+  	![Stars](https://img.shields.io/github/stars/somospro/soupro-mobile?style=flat-square) 
 
 <a name="awesomes"></a>
 
@@ -99,6 +108,20 @@
   A single repository learn about routing, upload files, controllers, auth with adonis.  
   ![Stars](https://img.shields.io/github/stars/acidiney/learn-adonisjs?style=flat-square)
 
+- **[dojophp](https://github.com/codingdojoangola/dojophp)** by [Coding Dojo Angola](https://github.com/codingdojoangola)   
+    PHP challenges  
+  	![Stars](https://img.shields.io/github/stars/codingdojoangola/dojophp?style=flat-square)
+
+- **[map-challenges](https://github.com/Fimba-Code/map-challenges)** by [Fimba Code](https://github.com/Fimba-Code)   
+    Map apps with Dart challenges.  
+  	![Stars](https://img.shields.io/github/stars/Fimba-Code/map-challenges?style=flat-square)
+
+- **[algorithm-challenge](https://github.com/Fimba-Code/algorithm-challenge)** by [Fimba Code](https://github.com/Fimba-Code)   
+    Desafio de Algoritmos básicos, para iniciantes.  
+  	![Stars](https://img.shields.io/github/stars/Fimba-Code/algorithm-challenge?style=flat-square)
+    
+
+
 <a name="c">
  
  ### C
@@ -153,6 +176,20 @@
   The javascript library to build highly interactive front-end  web applications.  
   ![Stars](https://img.shields.io/github/stars/DenisPower1/inter?style=flat-square)
 
+- **[rn-async-storage-flipper](https://github.com/Fausto95/rn-async-storage-flipper)** by [Faustino Kialungila](https://github.com/Fausto95)   
+    React Native's Async Storage logger for Flipper  
+  	![Stars](https://img.shields.io/github/stars/Fausto95/rn-async-storage-flipper?style=flat-square)
+
+- **[vscode-swap](https://github.com/Fausto95/vscode-swap)** by [Faustino Kialungila](https://github.com/Fausto95)   
+    VS Code extension for text swapping  
+  	![Stars](https://img.shields.io/github/stars/Fausto95/vscode-swap?style=flat-square)
+    
+- **[cipher-challenges](https://github.com/Fimba-Code/cipher-challenges)** by [Fimba Code](https://github.com/Fimba-Code)   
+    cipher algorithms challenge  
+  	![Stars](https://img.shields.io/github/stars/Fimba-Code/cipher-challenges?style=flat-square)
+    
+
+
 <a name="php"></a>
 
 ### PHP
@@ -165,7 +202,26 @@
   API with all countries of Africa.     
   ![Stars](https://img.shields.io/github/stars/MartinsSilva/CountriesAfricanAPI?style=flat-square)
 
+- **[doesangue-core](https://github.com/givebloodorg/doesangue-core)** by [Give Blood](https://github.com/givebloodorg)   
+    Online platform that connects people interested in blood donation  
+  	![Stars](https://img.shields.io/github/stars/givebloodorg/doesangue-core?style=flat-square)
+    
+- **[salespanel](https://github.com/linkasoftwares/salespanel)** by [Linka Softwares](https://github.com/linkasoftwares)   
+    Sales and Report dashboard that gives you the control  
+  	![Stars](https://img.shields.io/github/stars/linkasoftwares/salespanel?style=flat-square)
+    
+- **[portaldev](https://github.com/codingdojoangola/portaldev)** by [Coding Dojo Angola](https://github.com/codingdojoangola)   
+    Plataforma de vagas e contratação de freelancers em Angola  
+  	![Stars](https://img.shields.io/github/stars/codingdojoangola/portaldev?style=flat-square)
 
+- **[Mucua](https://github.com/danieluac/Mucua)** by [Daniel AC](https://github.com/danieluac)   
+    Mukua is a new framework for beginning backend of the PHP  
+  	![Stars](https://img.shields.io/github/stars/danieluac/Mucua?style=flat-square)
+    
+- **[QueroBukar](https://github.com/danieluac/QueroBukar)** by [Daniel AC](https://github.com/danieluac)   
+    Library management System, allow add and sell book, show book report, allow studant require book from android app. full crud ---Sistema de gestão de biblioteca, permite o cadastro de livros, gera relatórios, permite que estudantes solicitem livros apartir de app android e que participem de um fórum estudantil.  
+  	![Stars](https://img.shields.io/github/stars/danieluac/QueroBukar?style=flat-square)    
+    
 <a name="python"></a>
 
 ### Python
@@ -178,6 +234,11 @@
   Discover hidden deepweb pages.  
   ![Stars](https://img.shields.io/github/stars/kurogai/deepweb-scappering?style=flat-square)
 
+- **[amanda](https://github.com/amanda-lang/amanda)** by [Amanda](https://github.com/amanda-lang)   
+    The Amanda programming language  
+  	![Stars](https://img.shields.io/github/stars/amanda-lang/amanda?style=flat-square)
+    
+    
 
 <a name="Ruby"></a>
 
@@ -192,6 +253,14 @@
   ![Stars](https://img.shields.io/github/stars/gentildpinto/gitfinder?style=flat-square)
 
 
+<a name="swift"></a>
+
+### Swift
+
+- **[CardMotion-SwiftUI](https://github.com/Fimba-Code/CardMotion-SwiftUI)** by [Fimba Code](https://github.com/Fimba-Code)   
+    Animated digital debit/credit card based in SwiftUI  
+  	![Stars](https://img.shields.io/github/stars/Fimba-Code/CardMotion-SwiftUI?style=flat-square)
+
 <a name="Typescript"></a>
 
 ### Typescript
@@ -199,7 +268,19 @@
 - **[Angola-Api](https://github.com/Angola-Api/Angola-Api)** by [Lutero Elavoco](https://github.com/luteroelavoco) & [Adilson M. Fuxe](https://github.com/adilsonfuxe)  
   We're inspired by the Brazilian organization called Brasil Api and decided to gather as much information as necessary about Angola and distribute it free of charge.     
   ![Stars](https://img.shields.io/github/stars/Angola-Api/Angola-Api?style=flat-square)
+  
+- **[discord-bot](https://github.com/Fimba-Code/discord-bot)** by [Fimba Code](https://github.com/Fimba-Code)   
+    A discord bot for an software developer community a contributed to 🤖  
+  	![Stars](https://img.shields.io/github/stars/Fimba-Code/discord-bot?style=flat-square)
+    
+- **[aws-s3](https://github.com/Fausto95/aws-s3)** by [Faustino Kialungila](https://github.com/Fausto95)   
+    S3Client - A Javascript Library for AWS S3 File Upload  
+  	![Stars](https://img.shields.io/github/stars/Fausto95/aws-s3?style=flat-square)
 
+- **[jw-player-api](https://github.com/Fausto95/jw-player-api)** by [Faustino Kialungila](https://github.com/Fausto95)   
+    A library wrapper around JW Player API  
+  	![Stars](https://img.shields.io/github/stars/Fausto95/jw-player-api?style=flat-square)
+    
 
 <a name="communities"></a>
 

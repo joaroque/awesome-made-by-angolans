@@ -98,7 +98,15 @@
 - **[Rust-Learn](https://github.com/acidiney/learn-adonisjs)** by [Acidiney Dias](https://github.com/acidiney)  
   A single repository learn about routing, upload files, controllers, auth with adonis.  
   ![Stars](https://img.shields.io/github/stars/acidiney/learn-adonisjs?style=flat-square)
-  
+
+<a name="c">
+ 
+ ### C
+ 
+ - **[referencer](https://github.com/mcraveiro/referencer)** by [Marco Craveiro](https://github.com/mcraveiro)   
+    Clone of Gnome Referencer from launchpad  
+  	![Stars](https://img.shields.io/github/stars/mcraveiro/referencer?style=flat-square)
+
 <a name="css"></a>
 
 ### CSS

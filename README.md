@@ -120,9 +120,12 @@
     Desafio de Algoritmos básicos, para iniciantes.  
   	![Stars](https://img.shields.io/github/stars/Fimba-Code/algorithm-challenge?style=flat-square)
     
+- **[Data-Structures-Algorithms](https://github.com/JCassio1/Data-Structures-Algorithms)** by [Joselson Dias](https://github.com/JCassio1)   
+    Data structures and algorithms Swift are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data structures.  
+  	![Stars](https://img.shields.io/github/stars/JCassio1/Data-Structures-Algorithms?style=flat-square)
+    
 
-
-<a name="c">
+<a name="c"></a>
  
  ### C
  
@@ -188,7 +191,17 @@
     cipher algorithms challenge  
   	![Stars](https://img.shields.io/github/stars/Fimba-Code/cipher-challenges?style=flat-square)
     
+- **[proxypay-api](https://github.com/joaonzangoII/proxypay-api)** by [Joao Nzango II](https://github.com/joaonzangoII)   
+    An API wrapper of ProxyPay API written in Nodejs and ❤️ in Luanda 🇦🇴  
+  	![Stars](https://img.shields.io/github/stars/joaonzangoII/proxypay-api?style=flat-square)
+    
+<a name="java"></a>    
 
+### JAVA
+
+- **[Java-Load-Balancer](https://github.com/JCassio1/Java-Load-Balancer)** by [Joselson Dias](https://github.com/JCassio1)   
+    This is a project that I have created in 2018 for the class of Distributed Network Architecture at the department of Science and Technology at Nottingham Trent University. It is a load balancer created built using Java  
+  	![Stars](https://img.shields.io/github/stars/JCassio1/Java-Load-Balancer?style=flat-square)
 
 <a name="php"></a>
 
@@ -221,7 +234,12 @@
 - **[QueroBukar](https://github.com/danieluac/QueroBukar)** by [Daniel AC](https://github.com/danieluac)   
     Library management System, allow add and sell book, show book report, allow studant require book from android app. full crud ---Sistema de gestão de biblioteca, permite o cadastro de livros, gera relatórios, permite que estudantes solicitem livros apartir de app android e que participem de um fórum estudantil.  
   	![Stars](https://img.shields.io/github/stars/danieluac/QueroBukar?style=flat-square)    
+
+- **[Backend-Password-Cracker](https://github.com/JCassio1/Backend-Password-Cracker)** by [Joselson Dias](https://github.com/JCassio1)   
+    A simple password cracker tool based in PHP  
+  	![Stars](https://img.shields.io/github/stars/JCassio1/Backend-Password-Cracker?style=flat-square)
     
+
 <a name="python"></a>
 
 ### Python
@@ -260,6 +278,15 @@
 - **[CardMotion-SwiftUI](https://github.com/Fimba-Code/CardMotion-SwiftUI)** by [Fimba Code](https://github.com/Fimba-Code)   
     Animated digital debit/credit card based in SwiftUI  
   	![Stars](https://img.shields.io/github/stars/Fimba-Code/CardMotion-SwiftUI?style=flat-square)
+    
+- **[Neumorphism](https://github.com/JCassio1/Neumorphism)** by [Joselson Dias](https://github.com/JCassio1)   
+    A new UI design trend that is based on casting inner and outer shadows to give the illusion of extruded shapes  
+  	![Stars](https://img.shields.io/github/stars/JCassio1/Neumorphism?style=flat-square)
+
+- **[SwiftUI-language-localization](https://github.com/JCassio1/SwiftUI-language-localization)** by [Joselson Dias](https://github.com/JCassio1)   
+    The objective of this simple SwiftUI application is making it display its user interface in other languages. It is very simple in SwiftUI and it will be widely adopted in all my future apps. The most difficult aspect will be to make sure that translations are correct and verified by native speakers.  
+  	![Stars](https://img.shields.io/github/stars/JCassio1/SwiftUI-language-localization?style=flat-square)
+    
 
 <a name="Typescript"></a>
 

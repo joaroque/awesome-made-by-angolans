@@ -22,7 +22,7 @@
 
 ### Others
 - [Communities](#communities)
-- [5 most active users](#high-users)
+- [Commit top 5](#high-users)
 
 <a name="apps"></a>
 
@@ -123,6 +123,10 @@
 - **[Data-Structures-Algorithms](https://github.com/JCassio1/Data-Structures-Algorithms)** by [Joselson Dias](https://github.com/JCassio1)   
     Data structures and algorithms Swift are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data structures.  
   	![Stars](https://img.shields.io/github/stars/JCassio1/Data-Structures-Algorithms?style=flat-square)
+    
+- **[vagas](https://github.com/backend-ao/vagas)** by [Backend Angola](https://github.com/backend-ao)   
+    Repositório de vagas - Para publicar uma vaga abra uma issue  
+  	![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)    
     
 
 <a name="c"></a>

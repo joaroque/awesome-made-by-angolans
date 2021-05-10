@@ -36,7 +36,7 @@
   Commercial management system made with React js and Node Js.     
   ![Stars](https://img.shields.io/github/stars/AlienDev66/camilger-comercial?style=flat-square)
 
-- **[bottom_navy_bar](https://github.com/pedromassango/xtimer-flutter-app)** by [Pedro Massango](https://github.com/pedromassango)  
+- **[xTimer](https://github.com/pedromassango/xtimer-flutter-app)** by [Pedro Massango](https://github.com/pedromassango)  
   Flutter timer app.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/xtimer-flutter-app?style=flat-square)
 

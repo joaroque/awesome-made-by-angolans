@@ -7,7 +7,9 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/joaroque/awesome-made-by-angolans.svg?style=flat-square)](https://GitHub.com/joaroque/awesome-made-by-angolans/badges/graphs/contributors/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)](http://commonmark.org)
 
-### index
+> I made a [python script](https://github.com/joaroque/amba) that automates the writing of projects in Markdown :relaxed:. [Take a look](https://github.com/joaroque/amba)
+
+### Index:
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
@@ -20,7 +22,7 @@
 - [Swift](#swift)
 - [Typescript](#typescript)
 
-### Others
+### Others:
 - [Communities](#communities)
 - [Commit top 5](#high-users)
 

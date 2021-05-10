@@ -337,7 +337,7 @@
 
 <a name="high-users"></a>
 
-### 5 most active users
+### Commit top 5 Angola
 
 - 1 **[lutonda](https://github.com/lutonda)**   - Sebastião Dias Lutonda    
   [![GitHub followers](https://img.shields.io/github/followers/lutonda.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/lutonda?tab=followers)

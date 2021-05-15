@@ -1,0 +1,7 @@
+- **[exportGC](https://github.com/Nurul-GC/exportGC)** by [nuni-gc](https://github.com/Nurul-GC) \
+        an easy way to export node modules offline \
+        ![Stars](https://img.shields.io/github/stars/Nurul-GC/exportGC?style=flat-square)
+
+    ==================== Langs and scores ====================
+        ['Python', 18927, 'Shell', 156]
+

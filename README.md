@@ -3,7 +3,7 @@
 
 [![GNU license](https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg?style=flat-square)](/STARS)
+[![stars](https://img.shields.io/github/stars/joaroque/awesome-made-by-angolans.svg?style=flat-square)](/)
 [![GitHub contributors](https://img.shields.io/github/contributors/joaroque/awesome-made-by-angolans.svg?style=flat-square)](https://GitHub.com/joaroque/awesome-made-by-angolans/badges/graphs/contributors/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)](http://commonmark.org)
 
@@ -28,7 +28,7 @@
 
 <a name="apps"></a>
 
-### Apps, Softwares & Tools
+### Apps, Software & Tools
 
 - **[HinarioCatolico](https://github.com/nicolau-np/HinarioCatolico)** by [Nicolau NP](https://github.com/nicolau-np)  
   Catholic hymnal, songs and prayers.     
@@ -46,13 +46,13 @@
   Flutter timer app.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/xtimer-flutter-app?style=flat-square)
 
-- **[cda-app](https://github.com/codingdojoangola/cda-app)** by [Coding Dojo Angola](https://github.com/codingdojoangola)   
-    A App CDA terá como principal objetivo demostrar habilidades e competências individuais e coletivas dos membros do CDA para potencial empregadores, contratadores de freelancers e a sociedade em geral.   
-  	![Stars](https://img.shields.io/github/stars/codingdojoangola/cda-app?style=flat-square)
+- **[cda-app](https://github.com/codingdojoangola/cda-app)** by [Coding Dojo Angola](https://github.com/codingdojoangola) 
+    A App CDA terá como principal objetivo demostrar habilidades e competências individuais e coletivas dos membros do CDA para potencial empregadores, contratadores de freelancers e a sociedade em geral. 
+    ![Stars](https://img.shields.io/github/stars/codingdojoangola/cda-app?style=flat-square)
  
 - **[soupro-mobile](https://github.com/somospro/soupro-mobile)** by [Sou Pro](https://github.com/somospro)   
     Aplicativo mobile da plataforma Sou Pro  
-  	![Stars](https://img.shields.io/github/stars/somospro/soupro-mobile?style=flat-square) 
+    ![Stars](https://img.shields.io/github/stars/somospro/soupro-mobile?style=flat-square) 
 
 <a name="awesomes"></a>
 
@@ -115,33 +115,31 @@
   ![Stars](https://img.shields.io/github/stars/acidiney/learn-adonisjs?style=flat-square)
 
 - **[dojophp](https://github.com/codingdojoangola/dojophp)** by [Coding Dojo Angola](https://github.com/codingdojoangola)   
-    PHP challenges  
-  	![Stars](https://img.shields.io/github/stars/codingdojoangola/dojophp?style=flat-square)
+  PHP challenges  
+  ![Stars](https://img.shields.io/github/stars/codingdojoangola/dojophp?style=flat-square)
 
 - **[map-challenges](https://github.com/Fimba-Code/map-challenges)** by [Fimba Code](https://github.com/Fimba-Code)   
-    Map apps with Dart challenges.  
-  	![Stars](https://img.shields.io/github/stars/Fimba-Code/map-challenges?style=flat-square)
+  Map apps with Dart challenges.  
+  ![Stars](https://img.shields.io/github/stars/Fimba-Code/map-challenges?style=flat-square)
 
 - **[algorithm-challenge](https://github.com/Fimba-Code/algorithm-challenge)** by [Fimba Code](https://github.com/Fimba-Code)   
-    Desafio de Algoritmos básicos, para iniciantes.  
-  	![Stars](https://img.shields.io/github/stars/Fimba-Code/algorithm-challenge?style=flat-square)
-    
+  Desafio de Algoritmos básicos, para iniciantes.  
+  ![Stars](https://img.shields.io/github/stars/Fimba-Code/algorithm-challenge?style=flat-square)
 - **[Data-Structures-Algorithms](https://github.com/JCassio1/Data-Structures-Algorithms)** by [Joselson Dias](https://github.com/JCassio1)   
-    Data structures and algorithms Swift are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data structures.  
-  	![Stars](https://img.shields.io/github/stars/JCassio1/Data-Structures-Algorithms?style=flat-square)
-    
-- **[vagas](https://github.com/backend-ao/vagas)** by [Backend Angola](https://github.com/backend-ao)   
-    Repositório de vagas - Para publicar uma vaga abra uma issue  
-  	![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)    
-    
+  Data structures and algorithms Swift are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data structures.  
+  ![Stars](https://img.shields.io/github/stars/JCassio1/Data-Structures-Algorithms?style=flat-square)
+  
+- **[vagas](https://github.com/backend-ao/vagas)** by [Backend Angola](https://github.com/backend-ao) 
+  Repositório de vagas - Para publicar uma vaga abra uma issue  
+  ![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)
 
 <a name="c"></a>
  
- ### C
- 
- - **[referencer](https://github.com/mcraveiro/referencer)** by [Marco Craveiro](https://github.com/mcraveiro)   
-    Clone of Gnome Referencer from launchpad  
-  	![Stars](https://img.shields.io/github/stars/mcraveiro/referencer?style=flat-square)
+### C
+
+- **[referencer](https://github.com/mcraveiro/referencer)** by [Marco Craveiro](https://github.com/mcraveiro)   
+  Clone of Gnome Referencer from launchpad
+  ![Stars](https://img.shields.io/github/stars/mcraveiro/referencer?style=flat-square)
 
 <a name="css"></a>
 
@@ -190,28 +188,28 @@
   ![Stars](https://img.shields.io/github/stars/DenisPower1/inter?style=flat-square)
 
 - **[rn-async-storage-flipper](https://github.com/Fausto95/rn-async-storage-flipper)** by [Faustino Kialungila](https://github.com/Fausto95)   
-    React Native's Async Storage logger for Flipper  
-  	![Stars](https://img.shields.io/github/stars/Fausto95/rn-async-storage-flipper?style=flat-square)
+  React Native's Async Storage logger for Flipper  
+  ![Stars](https://img.shields.io/github/stars/Fausto95/rn-async-storage-flipper?style=flat-square)
 
 - **[vscode-swap](https://github.com/Fausto95/vscode-swap)** by [Faustino Kialungila](https://github.com/Fausto95)   
-    VS Code extension for text swapping  
-  	![Stars](https://img.shields.io/github/stars/Fausto95/vscode-swap?style=flat-square)
-    
+  VS Code extension for text swapping  
+  ![Stars](https://img.shields.io/github/stars/Fausto95/vscode-swap?style=flat-square)
+  
 - **[cipher-challenges](https://github.com/Fimba-Code/cipher-challenges)** by [Fimba Code](https://github.com/Fimba-Code)   
-    cipher algorithms challenge  
-  	![Stars](https://img.shields.io/github/stars/Fimba-Code/cipher-challenges?style=flat-square)
-    
+  cipher algorithms challenge  
+  ![Stars](https://img.shields.io/github/stars/Fimba-Code/cipher-challenges?style=flat-square)
+  
 - **[proxypay-api](https://github.com/joaonzangoII/proxypay-api)** by [Joao Nzango II](https://github.com/joaonzangoII)   
-    An API wrapper of ProxyPay API written in Nodejs and ❤️ in Luanda 🇦🇴  
-  	![Stars](https://img.shields.io/github/stars/joaonzangoII/proxypay-api?style=flat-square)
-    
+  An API wrapper of ProxyPay API written in Nodejs and ❤️ in Luanda 🇦🇴  
+  ![Stars](https://img.shields.io/github/stars/joaonzangoII/proxypay-api?style=flat-square)
+  
 <a name="java"></a>    
 
 ### JAVA
 
 - **[Java-Load-Balancer](https://github.com/JCassio1/Java-Load-Balancer)** by [Joselson Dias](https://github.com/JCassio1)   
-    This is a project that I have created in 2018 for the class of Distributed Network Architecture at the department of Science and Technology at Nottingham Trent University. It is a load balancer created built using Java  
-  	![Stars](https://img.shields.io/github/stars/JCassio1/Java-Load-Balancer?style=flat-square)
+  This is a project that I have created in 2018 for the class of Distributed Network Architecture at the department of Science and Technology at Nottingham Trent University. It is a load balancer created built using Java  
+  ![Stars](https://img.shields.io/github/stars/JCassio1/Java-Load-Balancer?style=flat-square)
 
 <a name="php"></a>
 
@@ -226,29 +224,29 @@
   ![Stars](https://img.shields.io/github/stars/MartinsSilva/CountriesAfricanAPI?style=flat-square)
 
 - **[doesangue-core](https://github.com/givebloodorg/doesangue-core)** by [Give Blood](https://github.com/givebloodorg)   
-    Online platform that connects people interested in blood donation  
-  	![Stars](https://img.shields.io/github/stars/givebloodorg/doesangue-core?style=flat-square)
-    
+  Online platform that connects people interested in blood donation  
+  ![Stars](https://img.shields.io/github/stars/givebloodorg/doesangue-core?style=flat-square)
+  
 - **[salespanel](https://github.com/linkasoftwares/salespanel)** by [Linka Softwares](https://github.com/linkasoftwares)   
-    Sales and Report dashboard that gives you the control  
-  	![Stars](https://img.shields.io/github/stars/linkasoftwares/salespanel?style=flat-square)
-    
+  Sales and Report dashboard that gives you the control  
+  ![Stars](https://img.shields.io/github/stars/linkasoftwares/salespanel?style=flat-square)
+  
 - **[portaldev](https://github.com/codingdojoangola/portaldev)** by [Coding Dojo Angola](https://github.com/codingdojoangola)   
-    Plataforma de vagas e contratação de freelancers em Angola  
-  	![Stars](https://img.shields.io/github/stars/codingdojoangola/portaldev?style=flat-square)
+  Plataforma de vagas e contratação de freelancers em Angola  
+  ![Stars](https://img.shields.io/github/stars/codingdojoangola/portaldev?style=flat-square)
 
 - **[Mucua](https://github.com/danieluac/Mucua)** by [Daniel AC](https://github.com/danieluac)   
-    Mukua is a new framework for beginning backend of the PHP  
-  	![Stars](https://img.shields.io/github/stars/danieluac/Mucua?style=flat-square)
-    
+  Mukua is a new framework for beginning backend of the PHP  
+  ![Stars](https://img.shields.io/github/stars/danieluac/Mucua?style=flat-square)
+  
 - **[QueroBukar](https://github.com/danieluac/QueroBukar)** by [Daniel AC](https://github.com/danieluac)   
-    Library management System, allow add and sell book, show book report, allow studant require book from android app. full crud ---Sistema de gestão de biblioteca, permite o cadastro de livros, gera relatórios, permite que estudantes solicitem livros apartir de app android e que participem de um fórum estudantil.  
-  	![Stars](https://img.shields.io/github/stars/danieluac/QueroBukar?style=flat-square)    
+  Library management System, allow add and sell book, show book report, allow studant require book from android app. full crud ---Sistema de gestão de biblioteca, permite o cadastro de livros, gera relatórios, permite que estudantes solicitem livros apartir de app android e que participem de um fórum estudantil.  
+  ![Stars](https://img.shields.io/github/stars/danieluac/QueroBukar?style=flat-square)    
 
 - **[Backend-Password-Cracker](https://github.com/JCassio1/Backend-Password-Cracker)** by [Joselson Dias](https://github.com/JCassio1)   
-    A simple password cracker tool based in PHP  
-  	![Stars](https://img.shields.io/github/stars/JCassio1/Backend-Password-Cracker?style=flat-square)
-    
+  A simple password cracker tool based in PHP  
+  ![Stars](https://img.shields.io/github/stars/JCassio1/Backend-Password-Cracker?style=flat-square)
+  
 
 <a name="python"></a>
 
@@ -263,13 +261,13 @@
   ![Stars](https://img.shields.io/github/stars/kurogai/deepweb-scappering?style=flat-square)
 
 - **[amanda](https://github.com/amanda-lang/amanda)** by [Amanda](https://github.com/amanda-lang)   
-    The Amanda programming language  
-  	![Stars](https://img.shields.io/github/stars/amanda-lang/amanda?style=flat-square)
-    
+  The Amanda programming language  
+  ![Stars](https://img.shields.io/github/stars/amanda-lang/amanda?style=flat-square)
+  
 - **[exportGC](https://github.com/Nurul-GC/exportGC)** by [nuni-gc](https://github.com/Nurul-GC) \
-        an easy way to export node modules offline \
-        ![Stars](https://img.shields.io/github/stars/Nurul-GC/exportGC?style=flat-square)
-    
+  an easy way to export node modules offline \
+  ![Stars](https://img.shields.io/github/stars/Nurul-GC/exportGC?style=flat-square)
+  
 <a name="Ruby"></a>
 
 ### Ruby
@@ -288,17 +286,17 @@
 ### Swift
 
 - **[CardMotion-SwiftUI](https://github.com/Fimba-Code/CardMotion-SwiftUI)** by [Fimba Code](https://github.com/Fimba-Code)   
-    Animated digital debit/credit card based in SwiftUI  
-  	![Stars](https://img.shields.io/github/stars/Fimba-Code/CardMotion-SwiftUI?style=flat-square)
-    
+  Animated digital debit/credit card based in SwiftUI  
+  ![Stars](https://img.shields.io/github/stars/Fimba-Code/CardMotion-SwiftUI?style=flat-square)
+  
 - **[Neumorphism](https://github.com/JCassio1/Neumorphism)** by [Joselson Dias](https://github.com/JCassio1)   
-    A new UI design trend that is based on casting inner and outer shadows to give the illusion of extruded shapes  
-  	![Stars](https://img.shields.io/github/stars/JCassio1/Neumorphism?style=flat-square)
+  A new UI design trend that is based on casting inner and outer shadows to give the illusion of extruded shapes  
+  ![Stars](https://img.shields.io/github/stars/JCassio1/Neumorphism?style=flat-square)
 
 - **[SwiftUI-language-localization](https://github.com/JCassio1/SwiftUI-language-localization)** by [Joselson Dias](https://github.com/JCassio1)   
-    The objective of this simple SwiftUI application is making it display its user interface in other languages. It is very simple in SwiftUI and it will be widely adopted in all my future apps. The most difficult aspect will be to make sure that translations are correct and verified by native speakers.  
-  	![Stars](https://img.shields.io/github/stars/JCassio1/SwiftUI-language-localization?style=flat-square)
-    
+  The objective of this simple SwiftUI application is making it display its user interface in other languages. It is very simple in SwiftUI and it will be widely adopted in all my future apps. The most difficult aspect will be to make sure that translations are correct and verified by native speakers.  
+  ![Stars](https://img.shields.io/github/stars/JCassio1/SwiftUI-language-localization?style=flat-square)
+  
 
 <a name="Typescript"></a>
 
@@ -309,17 +307,17 @@
   ![Stars](https://img.shields.io/github/stars/Angola-Api/Angola-Api?style=flat-square)
   
 - **[discord-bot](https://github.com/Fimba-Code/discord-bot)** by [Fimba Code](https://github.com/Fimba-Code)   
-    A discord bot for an software developer community a contributed to 🤖  
-  	![Stars](https://img.shields.io/github/stars/Fimba-Code/discord-bot?style=flat-square)
-    
+  A discord bot for an software developer community a contributed to 🤖  
+  ![Stars](https://img.shields.io/github/stars/Fimba-Code/discord-bot?style=flat-square)
+  
 - **[aws-s3](https://github.com/Fausto95/aws-s3)** by [Faustino Kialungila](https://github.com/Fausto95)   
-    S3Client - A Javascript Library for AWS S3 File Upload  
-  	![Stars](https://img.shields.io/github/stars/Fausto95/aws-s3?style=flat-square)
+  S3Client - A Javascript Library for AWS S3 File Upload  
+  ![Stars](https://img.shields.io/github/stars/Fausto95/aws-s3?style=flat-square)
 
 - **[jw-player-api](https://github.com/Fausto95/jw-player-api)** by [Faustino Kialungila](https://github.com/Fausto95)   
-    A library wrapper around JW Player API  
-  	![Stars](https://img.shields.io/github/stars/Fausto95/jw-player-api?style=flat-square)
-    
+  A library wrapper around JW Player API  
+  ![Stars](https://img.shields.io/github/stars/Fausto95/jw-player-api?style=flat-square)
+  
 
 <a name="communities"></a>
 
@@ -366,7 +364,7 @@
 
 
 ## Contributing
-It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
+It's hard to calculate project popularity, so we use stars as a measurement. It's not quite fair, but it is what we have here on GitHub.
 
 If you want to add a project to this list, please make sure that:
 
@@ -382,7 +380,7 @@ If you want to add a project to this list, please make sure that:
 
 ## License
 
-[GNU](/license)
+[GNU](/LICENSE)
 
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/joaroque/)

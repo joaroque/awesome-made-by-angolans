@@ -37,6 +37,10 @@
 - **[camilger-comercial](https://github.com/AlienDev66/camilger-comercial)** by [Domingos Capitango](https://github.com/AlienDev66) & [Adilson M. Fuxe](https://github.com/adilsonfuxe)  
   Commercial management system made with React js and Node Js.     
   ![Stars](https://img.shields.io/github/stars/AlienDev66/camilger-comercial?style=flat-square)
+  
+- **[exportGC](https://github.com/Nurul-GC/exportGC)** by [nuni-gc](https://github.com/Nurul-GC) \
+  an easy way to export node modules offline \
+  ![Stars](https://img.shields.io/github/stars/Nurul-GC/exportGC?style=flat-square)
 
 - **[xTimer](https://github.com/pedromassango/xtimer-flutter-app)** by [Pedro Massango](https://github.com/pedromassango)  
   Flutter timer app.  
@@ -262,8 +266,10 @@
     The Amanda programming language  
   	![Stars](https://img.shields.io/github/stars/amanda-lang/amanda?style=flat-square)
     
+- **[exportGC](https://github.com/Nurul-GC/exportGC)** by [nuni-gc](https://github.com/Nurul-GC) \
+        an easy way to export node modules offline \
+        ![Stars](https://img.shields.io/github/stars/Nurul-GC/exportGC?style=flat-square)
     
-
 <a name="Ruby"></a>
 
 ### Ruby

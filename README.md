@@ -38,20 +38,16 @@
   Commercial management system made with React js and Node Js.     
   ![Stars](https://img.shields.io/github/stars/AlienDev66/camilger-comercial?style=flat-square)
   
-- **[exportGC](https://github.com/Nurul-GC/exportGC)** by [nuni-gc](https://github.com/Nurul-GC) \
-  an easy way to export node modules offline \
-  ![Stars](https://img.shields.io/github/stars/Nurul-GC/exportGC?style=flat-square)
-
 - **[xTimer](https://github.com/pedromassango/xtimer-flutter-app)** by [Pedro Massango](https://github.com/pedromassango)  
   Flutter timer app.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/xtimer-flutter-app?style=flat-square)
 
 - **[cda-app](https://github.com/codingdojoangola/cda-app)** by [Coding Dojo Angola](https://github.com/codingdojoangola) 
-    A App CDA terá como principal objetivo demostrar habilidades e competências individuais e coletivas dos membros do CDA para potencial empregadores, contratadores de freelancers e a sociedade em geral. 
+   The CDA App will have as main objective to demonstrate individual and collective skills and competences of the CDA members to potential employers, freelancers hirers and society in general.
     ![Stars](https://img.shields.io/github/stars/codingdojoangola/cda-app?style=flat-square)
  
 - **[soupro-mobile](https://github.com/somospro/soupro-mobile)** by [Sou Pro](https://github.com/somospro)   
-    Aplicativo mobile da plataforma Sou Pro  
+    Mobile app of Sou Pro plataform  
     ![Stars](https://img.shields.io/github/stars/somospro/soupro-mobile?style=flat-square) 
 
 <a name="awesomes"></a>
@@ -110,7 +106,7 @@
   A repository that contains all my study test of rust, following the documentation or other way.  
   ![Stars](https://img.shields.io/github/stars/acidiney/Rust-Learn?style=flat-square)
 
-- **[Rust-Learn](https://github.com/acidiney/learn-adonisjs)** by [Acidiney Dias](https://github.com/acidiney)  
+- **[Learn-Adonis](https://github.com/acidiney/learn-adonisjs)** by [Acidiney Dias](https://github.com/acidiney)  
   A single repository learn about routing, upload files, controllers, auth with adonis.  
   ![Stars](https://img.shields.io/github/stars/acidiney/learn-adonisjs?style=flat-square)
 
@@ -123,14 +119,14 @@
   ![Stars](https://img.shields.io/github/stars/Fimba-Code/map-challenges?style=flat-square)
 
 - **[algorithm-challenge](https://github.com/Fimba-Code/algorithm-challenge)** by [Fimba Code](https://github.com/Fimba-Code)   
-  Desafio de Algoritmos básicos, para iniciantes.  
+  Algoritms challenges for beginners 
   ![Stars](https://img.shields.io/github/stars/Fimba-Code/algorithm-challenge?style=flat-square)
 - **[Data-Structures-Algorithms](https://github.com/JCassio1/Data-Structures-Algorithms)** by [Joselson Dias](https://github.com/JCassio1)   
   Data structures and algorithms Swift are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data structures.  
   ![Stars](https://img.shields.io/github/stars/JCassio1/Data-Structures-Algorithms?style=flat-square)
   
 - **[vagas](https://github.com/backend-ao/vagas)** by [Backend Angola](https://github.com/backend-ao) 
-  Repositório de vagas - Para publicar uma vaga abra uma issue  
+  Jobs repository 
   ![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)
 
 <a name="c"></a>

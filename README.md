@@ -127,7 +127,7 @@
   ![Stars](https://img.shields.io/github/stars/JCassio1/Data-Structures-Algorithms?style=flat-square)
   
 - **[vagas](https://github.com/backend-ao/vagas)** by [Backend Angola](https://github.com/backend-ao) 
-  Jobs repository.
+  Jobs repositories.
   ![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)
 
 <a name="c"></a>

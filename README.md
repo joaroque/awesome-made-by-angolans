@@ -43,12 +43,12 @@
   ![Stars](https://img.shields.io/github/stars/pedromassango/xtimer-flutter-app?style=flat-square)
 
 - **[cda-app](https://github.com/codingdojoangola/cda-app)** by [Coding Dojo Angola](https://github.com/codingdojoangola) 
-   The CDA App will have as main objective to demonstrate individual and collective skills and competences of the CDA members to potential employers, freelancers hirers and society in general.
-   ![Stars](https://img.shields.io/github/stars/codingdojoangola/cda-app?style=flat-square)
+   The CDA App will have as main objective to demonstrate individual and collective skills and competences of the CDA members to potential employers, freelancers hirers and society in general.  
+  ![Stars](https://img.shields.io/github/stars/codingdojoangola/cda-app?style=flat-square)
  
 - **[soupro-mobile](https://github.com/somospro/soupro-mobile)** by [Sou Pro](https://github.com/somospro)   
-    Mobile app of Sou Pro plataform.
-    ![Stars](https://img.shields.io/github/stars/somospro/soupro-mobile?style=flat-square) 
+    Mobile app of Sou Pro plataform.  
+  ![Stars](https://img.shields.io/github/stars/somospro/soupro-mobile?style=flat-square) 
 
 <a name="awesomes"></a>
 
@@ -123,11 +123,11 @@
   ![Stars](https://img.shields.io/github/stars/Fimba-Code/algorithm-challenge?style=flat-square)
   
 - **[Data-Structures-Algorithms](https://github.com/JCassio1/Data-Structures-Algorithms)** by [Joselson Dias](https://github.com/JCassio1)   
-  Data structures and algorithms Swift are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data structures.
+  Data structures and algorithms Swift are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data structures.  
   ![Stars](https://img.shields.io/github/stars/JCassio1/Data-Structures-Algorithms?style=flat-square)
   
 - **[vagas](https://github.com/backend-ao/vagas)** by [Backend Angola](https://github.com/backend-ao) 
-  Jobs repositories.
+  Jobs repositories.  
   ![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)
 
 <a name="c"></a>
@@ -135,7 +135,7 @@
 ### C
 
 - **[referencer](https://github.com/mcraveiro/referencer)** by [Marco Craveiro](https://github.com/mcraveiro)   
-  Clone of Gnome Referencer from launchpad.
+  Clone of Gnome Referencer from launchpad.  
   ![Stars](https://img.shields.io/github/stars/mcraveiro/referencer?style=flat-square)
 
 <a name="css"></a>

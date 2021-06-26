@@ -115,7 +115,8 @@
   ![Stars](https://img.shields.io/github/stars/codingdojoangola/dojophp?style=flat-square)
 
 - **[map-challenges](https://github.com/Fimba-Code/map-challenges)** by [Fimba Code](https://github.com/Fimba-Code)   
-  Map apps with Dart/Flutter challenges.  
+  Map apps with Dart/Flutter challenges.
+  
   ![Stars](https://img.shields.io/github/stars/Fimba-Code/map-challenges?style=flat-square)
 
 - **[algorithm-challenge](https://github.com/Fimba-Code/algorithm-challenge)** by [Fimba Code](https://github.com/Fimba-Code)   

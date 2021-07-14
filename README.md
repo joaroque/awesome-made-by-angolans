@@ -66,9 +66,6 @@
   An accurated list of things to test while pentesting.       
   ![Stars](https://img.shields.io/github/stars/kurogai/pentest-checklist?style=flat-square)
 
-- **[Ruby-Fun-Practice](https://github.com/gentildpinto/Ruby-Fun-Practice)** by [Gentil Pinto](https://github.com/gentildpinto)  
-  A list of small & fun functional programming exercises in Ruby.  
-  ![Stars](https://img.shields.io/github/stars/gentildpinto/Ruby-Fun-Practice?style=flat-square)
   
 - **[boas-praticas-do-vue](https://github.com/Vue-js-Angola/boas-praticas-do-vue)** by [Vue-js Angola](https://github.com/Vue-js-Angola)  
   A list of best practices and style guides for use in VueJs.  

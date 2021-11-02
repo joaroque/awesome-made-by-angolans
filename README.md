@@ -309,6 +309,10 @@
 
 ### Vue
 
+- **[developers.ao](https://github.com/e200/developers.ao)** by [Eleandro Duzentos](https://github.com/e200)   
+  Find developers based in Angola.  
+  ![Stars](https://img.shields.io/github/stars/e200/developers.ao?style=flat-square)
+
 <a name="communities"></a>
 
 ### Communities

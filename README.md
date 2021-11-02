@@ -147,7 +147,7 @@
   A beautiful and animated bottom navigation.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar?style=flat-square)
   
-- **[bottom_navy_bar](https://github.com/pedromassango/titled_navigation_bar)** by [Pedro Massango](https://github.com/pedromassango)  
+- **[titled_navigation_bar](https://github.com/pedromassango/titled_navigation_bar)** by [Pedro Massango](https://github.com/pedromassango)  
   A beautiful and simple bottom navigation bar with smooth animation when switching selected item.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/titled_navigation_bar?style=flat-square)
 

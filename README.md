@@ -14,6 +14,7 @@
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
 - [Dart](#dart)
+- [Go](#go)
 - [JavaScript](#js)
 - [Java](#java)
 - [PHP](#php)
@@ -21,6 +22,7 @@
 - [Ruby](#ruby)
 - [Swift](#swift)
 - [Typescript](#typescript)
+- [Vue](#vue)
 
 ### Others:
 - [Communities](#communities)
@@ -70,10 +72,6 @@
   A list of best practices and style guides for use in VueJs.  
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola/boas-praticas-do-vue?style=flat-square)
 
-- **[URIOnlineJudge_Ruby_Solutions](https://github.com/gentildpinto/URIOnlineJudge_Ruby_Solutions)** by [Gentil Pinto](https://github.com/gentildpinto)  
-  Solutions urionlinejudge.com.br in Ruby.  
-  ![Stars](https://img.shields.io/github/stars/gentildpinto/URIOnlineJudge_Ruby_Solutions?style=flat-square)
-
 - **[guia-simplificado-do-git-para-iniciantes](https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes)** by [Martins Silva](https://github.com/MartinsSilva)  
   A simple guide with all the main commands to get started with Git and Github.     
   ![Stars](https://img.shields.io/github/stars/MartinsSilva/guia-simplificado-do-git-para-iniciantes?style=flat-square)
@@ -89,10 +87,6 @@
 - **[my_flutter_challenges](https://github.com/pedromassango/my_flutter_challenges)** by [Pedro Massango](https://github.com/pedromassango)  
   Flutter project containing all my flutter UI challenges.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/my_flutter_challenges?style=flat-square)
-  
-- **[Vue-Study-Content](https://github.com/acidiney/Vue-Study-Content)** by [Acidiney Dias](https://github.com/acidiney)  
-  All material about vuejs for your studies in diferents languages.  
-  ![Stars](https://img.shields.io/github/stars/acidiney/Vue-Study-Content?style=flat-square)
   
 - **[Vue-Study-Content](https://github.com/acidiney/Vue-Study-Content)** by [Acidiney Dias](https://github.com/acidiney)  
   All material about vuejs for your studies in diferents languages.  
@@ -126,6 +120,10 @@
   Jobs repositories.  
   ![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)
 
+- **[my-flutter-challenges](https://github.com/e200/my-flutter-challenges)** by [Eleandro Duzentos](https://github.com/e200)  
+  All my Flutter Challenges  
+  ![Stars](https://img.shields.io/github/stars/e200/my-flutter-challenges?style=flat-square)
+
 <a name="c"></a>
  
 ### C
@@ -150,11 +148,25 @@
   A beautiful and animated bottom navigation.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar?style=flat-square)
   
-- **[bottom_navy_bar](https://github.com/pedromassango/titled_navigation_bar)** by [Pedro Massango](https://github.com/pedromassango)  
+- **[titled_navigation_bar](https://github.com/pedromassango/titled_navigation_bar)** by [Pedro Massango](https://github.com/pedromassango)  
   A beautiful and simple bottom navigation bar with smooth animation when switching selected item.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/titled_navigation_bar?style=flat-square)
 
+- **[color_generator](https://github.com/e200/color_generator)** by [Eleandro Duzentos](https://github.com/e200)  
+  A simple Flutter color generator app built with Cubit + Freezed.  
+  ![Stars](https://img.shields.io/github/stars/e200/color_generator?style=flat-square)
 
+<a name="go"></a>
+
+### Go
+
+- **[kutala-api-gateway](https://github.com/Paulo-Lopes-Estevao/kutala-api-gateway)** by [Paulo Lopes Estevão](https://github.com/Paulo-Lopes-Estevao)  
+  Kutala é uma api gateway gerenciador de tráfego, controla o acesso aos seus sistemas e serviços de back-end, 360 de uma aplicação.
+  ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/kutala-api-gateway?style=flat-square)
+
+- **[mangope-api](https://github.com/gentildpinto/mangope-api)** by [Gentil Pinto](https://github.com/gentildpinto)  
+  Is an implementation of [AngoProvsAPI](https://github.com/gentildpinto/provincias_de_angola_api) in @golang
+  ![Stars](https://img.shields.io/github/stars/gentildpinto/mangope-api?style=flat-square)
 
 <a name="js"></a>
 
@@ -211,10 +223,6 @@
 - **[covid-19-ao-api](https://github.com/ravelinodecastro/covid-19-ao-api)** by [Ravelino De Castro](https://github.com/ravelinodecastro)  
   Covid-19 Ao Api is an Angolan API created to show in real time the information about the cases of the corona virus detected in the Angolan territory.       
   ![Stars](https://img.shields.io/github/stars/ravelinodecastro/covid-19-ao-api?style=flat-square)
-  
-- **[CountriesAfricanAPI](https://github.com/MartinsSilva/CountriesAfricanAPI)** by [Martins Silva](https://github.com/MartinsSilva)  
-  API with all countries of Africa.     
-  ![Stars](https://img.shields.io/github/stars/MartinsSilva/CountriesAfricanAPI?style=flat-square)
 
 - **[doesangue-core](https://github.com/givebloodorg/doesangue-core)** by [Give Blood](https://github.com/givebloodorg)   
   Online platform that connects people interested in blood donation  
@@ -256,7 +264,10 @@
 - **[amanda](https://github.com/amanda-lang/amanda)** by [Amanda](https://github.com/amanda-lang)   
   The Amanda programming language  
   ![Stars](https://img.shields.io/github/stars/amanda-lang/amanda?style=flat-square)
-  
+
+- **[Api_Identity](https://github.com/Paulo-Lopes-Estevao/Api_Identity)** by [Paulo Lopes Estevão](https://github.com/Paulo-Lopes-Estevao)   
+  API Indentifacação do BI e NIF  
+  ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/Api_Identity?style=flat-square)
   
 <a name="Ruby"></a>
 
@@ -270,6 +281,9 @@
   A simple tool that allows find GitHub users by his username.  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/gitfinder?style=flat-square)
 
+- **[covid-19-scraper](https://github.com/helciodev/covid-19-scraper)** by [helcio andre](https://github.com/helciodev)  
+  This app scrapes for data at https://www.worldometers.info/coronavirus, presents general information in tables and allows the user to search statistics about covid-19 by country.  
+  ![Stars](https://img.shields.io/github/stars/helciodev/covid-19-scraper?style=flat-square)
 
 <a name="swift"></a>
 
@@ -307,7 +321,14 @@
 - **[jw-player-api](https://github.com/Fausto95/jw-player-api)** by [Faustino Kialungila](https://github.com/Fausto95)   
   A library wrapper around JW Player API  
   ![Stars](https://img.shields.io/github/stars/Fausto95/jw-player-api?style=flat-square)
-  
+
+<a name="Vue"></a>
+
+### Vue
+
+- **[developers.ao](https://github.com/e200/developers.ao)** by [Eleandro Duzentos](https://github.com/e200)   
+  Find developers based in Angola.  
+  ![Stars](https://img.shields.io/github/stars/e200/developers.ao?style=flat-square)
 
 <a name="communities"></a>
 
@@ -329,7 +350,9 @@
   O Coding Dojo Angola é um espaço onde interessados em desenvolvimento de software em Angola poderão se reunir para aprender e ensinar programação, procurar informações sobre vagas de empregos nas TIC's e para que empresas possam encontrar talento angolano..  
   ![Stars](https://img.shields.io/github/stars/codingdojoangola?style=flat-square)
   
-
+- **[Fimba Code](https://github.com/Fimba-Code)**  
+  Fimba Code.  
+  ![Stars](https://img.shields.io/github/stars/Fimba-Code?style=flat-square)
 
 ## Contributing
 It's hard to calculate project popularity, so we use stars as a measurement. It's not quite fair, but it is what we have here on GitHub.

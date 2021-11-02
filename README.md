@@ -164,6 +164,10 @@
   Kutala é uma api gateway gerenciador de tráfego, controla o acesso aos seus sistemas e serviços de back-end, 360 de uma aplicação.
   ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/kutala-api-gateway?style=flat-square)
 
+- **[mangope-api](https://github.com/gentildpinto/mangope-api)** by [Gentil Pinto](https://github.com/gentildpinto)  
+  Is an implementation of [AngoProvsAPI](https://github.com/gentildpinto/provincias_de_angola_api) in @golang
+  ![Stars](https://img.shields.io/github/stars/gentildpinto/mangope-api?style=flat-square)
+
 <a name="js"></a>
 
 ### JavaScript

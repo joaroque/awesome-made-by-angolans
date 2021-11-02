@@ -223,10 +223,6 @@
 - **[covid-19-ao-api](https://github.com/ravelinodecastro/covid-19-ao-api)** by [Ravelino De Castro](https://github.com/ravelinodecastro)  
   Covid-19 Ao Api is an Angolan API created to show in real time the information about the cases of the corona virus detected in the Angolan territory.       
   ![Stars](https://img.shields.io/github/stars/ravelinodecastro/covid-19-ao-api?style=flat-square)
-  
-- **[CountriesAfricanAPI](https://github.com/MartinsSilva/CountriesAfricanAPI)** by [Martins Silva](https://github.com/MartinsSilva)  
-  API with all countries of Africa.     
-  ![Stars](https://img.shields.io/github/stars/MartinsSilva/CountriesAfricanAPI?style=flat-square)
 
 - **[doesangue-core](https://github.com/givebloodorg/doesangue-core)** by [Give Blood](https://github.com/givebloodorg)   
   Online platform that connects people interested in blood donation  

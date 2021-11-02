@@ -14,6 +14,7 @@
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
 - [Dart](#dart)
+- [Go](#go)
 - [JavaScript](#js)
 - [Java](#java)
 - [PHP](#php)
@@ -155,6 +156,9 @@
   A simple Flutter color generator app built with Cubit + Freezed.  
   ![Stars](https://img.shields.io/github/stars/e200/color_generator?style=flat-square)
 
+<a name="go"></a>
+
+### Go
 
 <a name="js"></a>
 

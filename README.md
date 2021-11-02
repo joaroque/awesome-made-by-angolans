@@ -118,6 +118,10 @@
   Jobs repositories.  
   ![Stars](https://img.shields.io/github/stars/backend-ao/vagas?style=flat-square)
 
+- **[my-flutter-challenges](https://github.com/e200/my-flutter-challenges)** by [Eleandro Duzentos](https://github.com/e200)  
+  All my Flutter Challenges  
+  ![Stars](https://img.shields.io/github/stars/e200/my-flutter-challenges?style=flat-square)
+
 <a name="c"></a>
  
 ### C

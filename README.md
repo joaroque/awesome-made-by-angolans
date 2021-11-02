@@ -70,10 +70,6 @@
   A list of best practices and style guides for use in VueJs.  
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola/boas-praticas-do-vue?style=flat-square)
 
-- **[URIOnlineJudge_Ruby_Solutions](https://github.com/gentildpinto/URIOnlineJudge_Ruby_Solutions)** by [Gentil Pinto](https://github.com/gentildpinto)  
-  Solutions urionlinejudge.com.br in Ruby.  
-  ![Stars](https://img.shields.io/github/stars/gentildpinto/URIOnlineJudge_Ruby_Solutions?style=flat-square)
-
 - **[guia-simplificado-do-git-para-iniciantes](https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes)** by [Martins Silva](https://github.com/MartinsSilva)  
   A simple guide with all the main commands to get started with Git and Github.     
   ![Stars](https://img.shields.io/github/stars/MartinsSilva/guia-simplificado-do-git-para-iniciantes?style=flat-square)
@@ -89,10 +85,6 @@
 - **[my_flutter_challenges](https://github.com/pedromassango/my_flutter_challenges)** by [Pedro Massango](https://github.com/pedromassango)  
   Flutter project containing all my flutter UI challenges.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/my_flutter_challenges?style=flat-square)
-  
-- **[Vue-Study-Content](https://github.com/acidiney/Vue-Study-Content)** by [Acidiney Dias](https://github.com/acidiney)  
-  All material about vuejs for your studies in diferents languages.  
-  ![Stars](https://img.shields.io/github/stars/acidiney/Vue-Study-Content?style=flat-square)
   
 - **[Vue-Study-Content](https://github.com/acidiney/Vue-Study-Content)** by [Acidiney Dias](https://github.com/acidiney)  
   All material about vuejs for your studies in diferents languages.  

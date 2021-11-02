@@ -285,6 +285,9 @@
   A simple tool that allows find GitHub users by his username.  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/gitfinder?style=flat-square)
 
+- **[covid-19-scraper](https://github.com/helciodev/covid-19-scraper)** by [helcio andre](https://github.com/helciodev)  
+  This app scrapes for data at https://www.worldometers.info/coronavirus, presents general information in tables and allows the user to search statistics about covid-19 by country.  
+  ![Stars](https://img.shields.io/github/stars/helciodev/covid-19-scraper?style=flat-square)
 
 <a name="swift"></a>
 

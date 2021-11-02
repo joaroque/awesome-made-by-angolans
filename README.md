@@ -151,6 +151,9 @@
   A beautiful and simple bottom navigation bar with smooth animation when switching selected item.  
   ![Stars](https://img.shields.io/github/stars/pedromassango/titled_navigation_bar?style=flat-square)
 
+- **[color_generator](https://github.com/e200/color_generator)** by [Eleandro Duzentos](https://github.com/e200)  
+  A simple Flutter color generator app built with Cubit + Freezed.  
+  ![Stars](https://img.shields.io/github/stars/e200/color_generator?style=flat-square)
 
 
 <a name="js"></a>

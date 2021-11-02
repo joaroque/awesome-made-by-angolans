@@ -354,7 +354,9 @@
   O Coding Dojo Angola é um espaço onde interessados em desenvolvimento de software em Angola poderão se reunir para aprender e ensinar programação, procurar informações sobre vagas de empregos nas TIC's e para que empresas possam encontrar talento angolano..  
   ![Stars](https://img.shields.io/github/stars/codingdojoangola?style=flat-square)
   
-
+- **[Fimba Code](https://github.com/Fimba-Code)**  
+  Fimba Code.  
+  ![Stars](https://img.shields.io/github/stars/Fimba-Code?style=flat-square)
 
 ## Contributing
 It's hard to calculate project popularity, so we use stars as a measurement. It's not quite fair, but it is what we have here on GitHub.

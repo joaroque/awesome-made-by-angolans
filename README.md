@@ -21,6 +21,7 @@
 - [Ruby](#ruby)
 - [Swift](#swift)
 - [Typescript](#typescript)
+- [Vue](#vue)
 
 ### Others:
 - [Communities](#communities)
@@ -303,7 +304,10 @@
 - **[jw-player-api](https://github.com/Fausto95/jw-player-api)** by [Faustino Kialungila](https://github.com/Fausto95)   
   A library wrapper around JW Player API  
   ![Stars](https://img.shields.io/github/stars/Fausto95/jw-player-api?style=flat-square)
-  
+
+<a name="Vue"></a>
+
+### Vue
 
 <a name="communities"></a>
 

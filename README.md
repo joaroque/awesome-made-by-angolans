@@ -160,6 +160,10 @@
 
 ### Go
 
+- **[kutala-api-gateway](https://github.com/Paulo-Lopes-Estevao/kutala-api-gateway)** by [Paulo Lopes Estevão](https://github.com/Paulo-Lopes-Estevao)  
+  Kutala é uma api gateway gerenciador de tráfego, controla o acesso aos seus sistemas e serviços de back-end, 360 de uma aplicação.
+  ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/kutala-api-gateway?style=flat-square)
+
 <a name="js"></a>
 
 ### JavaScript

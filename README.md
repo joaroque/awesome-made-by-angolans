@@ -109,7 +109,7 @@
   ![Stars](https://img.shields.io/github/stars/Fimba-Code/map-challenges?style=flat-square)
 
 - **[algorithm-challenge](https://github.com/Fimba-Code/algorithm-challenge)** by [Fimba Code](https://github.com/Fimba-Code)   
-  Algoritms challenges for beginners.
+  Algoritms challenges for beginners.  
   ![Stars](https://img.shields.io/github/stars/Fimba-Code/algorithm-challenge?style=flat-square)
   
 - **[Data-Structures-Algorithms](https://github.com/JCassio1/Data-Structures-Algorithms)** by [Joselson Dias](https://github.com/JCassio1)   
@@ -161,11 +161,11 @@
 ### Go
 
 - **[kutala-api-gateway](https://github.com/Paulo-Lopes-Estevao/kutala-api-gateway)** by [Paulo Lopes Estevão](https://github.com/Paulo-Lopes-Estevao)  
-  Kutala é uma api gateway gerenciador de tráfego, controla o acesso aos seus sistemas e serviços de back-end, 360 de uma aplicação.
+  Kutala é uma api gateway gerenciador de tráfego, controla o acesso aos seus sistemas e serviços de back-end, 360 de uma aplicação.  
   ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/kutala-api-gateway?style=flat-square)
 
 - **[mangope-api](https://github.com/gentildpinto/mangope-api)** by [Gentil Pinto](https://github.com/gentildpinto)  
-  Is an implementation of [AngoProvsAPI](https://github.com/gentildpinto/provincias_de_angola_api) in @golang
+  Is an implementation of [AngoProvsAPI](https://github.com/gentildpinto/provincias_de_angola_api) in @golang  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/mangope-api?style=flat-square)
 
 <a name="js"></a>

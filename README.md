@@ -216,6 +216,10 @@
   This is a project that I have created in 2018 for the class of Distributed Network Architecture at the department of Science and Technology at Nottingham Trent University. It is a load balancer created built using Java  
   ![Stars](https://img.shields.io/github/stars/JCassio1/Java-Load-Balancer?style=flat-square)
 
+- **[Kiyo](https://github.com/AlexJuca/Kiyo)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
+  A simple android permissions library for devices running android marshmallow +   
+  ![Stars](https://img.shields.io/github/stars/AlexJuca/Kiyo?style=flat-square)
+
 <a name="php"></a>
 
 ### PHP

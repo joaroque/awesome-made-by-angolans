@@ -230,6 +230,10 @@
 
 ### Kotlin
 
+- **[BiometricKit](https://github.com/AlexJuca/BiometricKit)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
+  A simple android library for handling the complexities of android fingerprint authentication   
+  ![Stars](https://img.shields.io/github/stars/AlexJuca/BiometricKit?style=flat-square)
+
 <a name="php"></a>
 
 ### PHP

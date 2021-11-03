@@ -162,6 +162,10 @@
 
 ### Elixir
 
+- **[small-url](https://github.com/AlexJuca/small-url)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
+  Free and Open Source URL Shortener with real time capabilities built with phoenix framework and elixir.   
+  ![Stars](https://img.shields.io/github/stars/AlexJuca/small-url?style=flat-square)
+
 <a name="go"></a>
 
 ### Go

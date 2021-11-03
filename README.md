@@ -14,9 +14,11 @@
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [Go](#go)
 - [JavaScript](#js)
 - [Java](#java)
+- [Kotlin](#kotlin)
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -156,6 +158,14 @@
   A simple Flutter color generator app built with Cubit + Freezed.  
   ![Stars](https://img.shields.io/github/stars/e200/color_generator?style=flat-square)
 
+<a name="elixir"></a>
+
+### Elixir
+
+- **[small-url](https://github.com/AlexJuca/small-url)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
+  Free and Open Source URL Shortener with real time capabilities built with phoenix framework and elixir.   
+  ![Stars](https://img.shields.io/github/stars/AlexJuca/small-url?style=flat-square)
+
 <a name="go"></a>
 
 ### Go
@@ -215,6 +225,18 @@
 - **[Java-Load-Balancer](https://github.com/JCassio1/Java-Load-Balancer)** by [Joselson Dias](https://github.com/JCassio1)   
   This is a project that I have created in 2018 for the class of Distributed Network Architecture at the department of Science and Technology at Nottingham Trent University. It is a load balancer created built using Java  
   ![Stars](https://img.shields.io/github/stars/JCassio1/Java-Load-Balancer?style=flat-square)
+
+- **[Kiyo](https://github.com/AlexJuca/Kiyo)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
+  A simple android permissions library for devices running android marshmallow +   
+  ![Stars](https://img.shields.io/github/stars/AlexJuca/Kiyo?style=flat-square)
+
+<a name="kotlin"></a>    
+
+### Kotlin
+
+- **[BiometricKit](https://github.com/AlexJuca/BiometricKit)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
+  A simple android library for handling the complexities of android fingerprint authentication   
+  ![Stars](https://img.shields.io/github/stars/AlexJuca/BiometricKit?style=flat-square)
 
 <a name="php"></a>
 

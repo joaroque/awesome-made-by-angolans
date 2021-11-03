@@ -14,9 +14,11 @@
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [Go](#go)
 - [JavaScript](#js)
 - [Java](#java)
+- [Kotlin](#kotlin)
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -156,6 +158,10 @@
   A simple Flutter color generator app built with Cubit + Freezed.  
   ![Stars](https://img.shields.io/github/stars/e200/color_generator?style=flat-square)
 
+<a name="elixir"></a>
+
+### Elixir
+
 <a name="go"></a>
 
 ### Go
@@ -219,6 +225,10 @@
 - **[Kiyo](https://github.com/AlexJuca/Kiyo)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
   A simple android permissions library for devices running android marshmallow +   
   ![Stars](https://img.shields.io/github/stars/AlexJuca/Kiyo?style=flat-square)
+
+<a name="kotlin"></a>    
+
+### Kotlin
 
 <a name="php"></a>
 

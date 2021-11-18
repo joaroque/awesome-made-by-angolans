@@ -217,7 +217,11 @@
 - **[proxypay-api](https://github.com/joaonzangoII/proxypay-api)** by [Joao Nzango II](https://github.com/joaonzangoII)   
   An API wrapper of ProxyPay API written in Nodejs and ❤️ in Luanda 🇦🇴  
   ![Stars](https://img.shields.io/github/stars/joaonzangoII/proxypay-api?style=flat-square)
-  
+
+- **[macos-monterey](https://github.com/AlexJuca/macos-monterey)** by [Alexandre Antonio Juca](https://github.com/AlexJuca)   
+  Clone of macOS Monterey that runs in your browser.    
+  ![Stars](https://img.shields.io/github/stars/AlexJuca/macos-monterey?style=flat-square)
+
 <a name="java"></a>    
 
 ### JAVA

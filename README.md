@@ -205,6 +205,10 @@
 - **[rn-async-storage-flipper](https://github.com/Fausto95/rn-async-storage-flipper)** by [Faustino Kialungila](https://github.com/Fausto95)   
   React Native's Async Storage logger for Flipper  
   ![Stars](https://img.shields.io/github/stars/Fausto95/rn-async-storage-flipper?style=flat-square)
+  
+- **[react-native-pin](https://github.com/mariovarela99/react-native-pin)** by [Mário Varela](https://github.com/mariovarela99)  
+  Component to use Pin in your Apps, Easy to use, easy to customize and easy to manipulate.  
+  ![Stars](https://img.shields.io/github/stars/mariovarela99/react-native-pin?style=flat-square)
 
 - **[vscode-swap](https://github.com/Fausto95/vscode-swap)** by [Faustino Kialungila](https://github.com/Fausto95)   
   VS Code extension for text swapping  

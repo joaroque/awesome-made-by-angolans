@@ -158,6 +158,10 @@
   A simple Flutter color generator app built with Cubit + Freezed.  
   ![Stars](https://img.shields.io/github/stars/e200/color_generator?style=flat-square)
 
+- **[client-code-generators](https://github.com/Paulo-Lopes-Estevao/client-code-generators)** by [Paulo Lopes Estevão](https://github.com/Paulo-Lopes-Estevao)
+  Converts HTTP requests into different languages of your choice, generating HTTP request code for the same language.
+  ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/client-code-generators?style=flat-square)
+
 <a name="elixir"></a>
 
 ### Elixir
@@ -177,6 +181,10 @@
 - **[mangope-api](https://github.com/gentildpinto/mangope-api)** by [Gentil Pinto](https://github.com/gentildpinto)  
   Is an implementation of [AngoProvsAPI](https://github.com/gentildpinto/provincias_de_angola_api) in @golang  
   ![Stars](https://img.shields.io/github/stars/gentildpinto/mangope-api?style=flat-square)
+
+- **[sqlc-generate-crud](https://github.com/Paulo-Lopes-Estevao/sqlc-generate-crud)** by [Paulo Lopes Estevão](https://github.com/Paulo-Lopes-Estevao)
+  is a library that generates CRUD sql operations for a struct using the sqlc structure.
+  ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/sqlc-generate-crud?style=flat-square)
 
 <a name="js"></a>
 

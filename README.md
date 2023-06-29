@@ -74,9 +74,6 @@
   A list of best practices and style guides for use in VueJs.  
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola/boas-praticas-do-vue?style=flat-square)
 
-- **[guia-simplificado-do-git-para-iniciantes](https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes)** by [Martins Silva](https://github.com/MartinsSilva)  
-  A simple guide with all the main commands to get started with Git and Github.     
-  ![Stars](https://img.shields.io/github/stars/MartinsSilva/guia-simplificado-do-git-para-iniciantes?style=flat-square)
   
 - **[Desafios](https://github.com/Community-Dev-Angola/Desafios)** by [CDA](https://github.com/Community-Dev-Angola)  
   List of logic / programming challenge platforms.     
@@ -375,10 +372,6 @@
 - **[Vue-js-Angola](https://github.com/Vue-js-Angola)**  
   Angolan community of Vuejs developers.   
   ![Stars](https://img.shields.io/github/stars/Vue-js-Angola?style=flat-square)
-
-- **[Programador Angolano](https://github.com/pangolano)**  
-  A community of Angolan programmers and open source lovers.  
-  ![Stars](https://img.shields.io/github/stars/pangolano?style=flat-square)
 
 - **[Community-Dev-Angola](https://github.com/Community-Dev-Angola)**  
   Community of Angolan Developers.  

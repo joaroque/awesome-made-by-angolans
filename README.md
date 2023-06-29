@@ -154,6 +154,7 @@
 
 - **[client-code-generators](https://github.com/Paulo-Lopes-Estevao/client-code-generators)** by [Paulo Lopes Estevão](https://github.com/Paulo-Lopes-Estevao)
   Converts HTTP requests into different languages of your choice, generating HTTP request code for the same language.
+  
   ![Stars](https://img.shields.io/github/stars/Paulo-Lopes-Estevao/client-code-generators?style=flat-square)
 
 <a name="elixir"></a>

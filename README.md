@@ -61,9 +61,6 @@
   Awesome projects for security students.     
   ![Stars](https://img.shields.io/github/stars/kurogai/100-redteam-projects?style=flat-square)
 
-- **[coisas-que-devem-estar-no-header-do-seu-site](https://github.com/MartinsSilva/coisas-que-devem-estar-no-header-do-seu-site)** by [Martins Silva](https://github.com/MartinsSilva)  
-  A list of metacharsets that cannot be missing from your site and can improve your site’s SEO.  
-  ![Stars](https://img.shields.io/github/stars/MartinsSilva/coisas-que-devem-estar-no-header-do-seu-site?style=flat-square)
 
 - **[pentest-checklist](https://github.com/kurogai/pentest-checklist)** by [Héber Júlio](https://github.com/kurogai)  
   An accurated list of things to test while pentesting.       
